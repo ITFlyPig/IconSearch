@@ -9,14 +9,18 @@ class LogConfig:
 @dataclass
 class ImageConfig:
     origin_dir: str
-    origin_save_dir: str
-    handled_dir: str
-    remote_img_dir: str
+
+@dataclass
+class QdrantConfig:
+    hot: str
+    port: int
+    collection_name: str
 
 @dataclass
 class Config:
     log: LogConfig
     image: ImageConfig
+    qdrant: QdrantConfig
 
     @classmethod
     def from_yaml(cls, file_path: str) -> 'Config':
@@ -25,6 +29,7 @@ class Config:
             return cls(
                 log=LogConfig(**data['log']),
                 image=ImageConfig(**data['image']),
+                qdrant=QdrantConfig(**data['qdrant']),
             )
 
 
