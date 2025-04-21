@@ -1,0 +1,9 @@
+# 日志
+log:
+  name: "icon_search_local"
+  dir: "./log/"
+
+image:
+  origin_dir: "/Users/10254072/si-im" # 原始图片所在目录
+  origin_save_dir: "./img/origin" # 存原始图片的目录
+  handled_dir: "./img/handled" # 处理后的图片所在目录

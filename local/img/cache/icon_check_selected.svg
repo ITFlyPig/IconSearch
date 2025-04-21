@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="M0,0h24v24h-24z">
+    <circle cx="12" cy="12" r="10" fill="#0066FF"/>
+    <path d="M16.772,8.818 L10.408,15.182 L7.227,12" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

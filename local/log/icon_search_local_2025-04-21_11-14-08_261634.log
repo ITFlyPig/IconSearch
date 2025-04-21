@@ -1,0 +1,954 @@
+2025-04-21T11:14:08.370753+0800 | INFO | move /Users/10254072/si-im/app/src/google/res/drawable-xxhdpi/s_chat_logo.webp to ./img/origin
+2025-04-21T11:14:08.372899+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_gray_no_background.xml to ./img/origin
+2025-04-21T11:14:08.373594+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/default_avatar.png to ./img/origin
+2025-04-21T11:14:08.374079+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan_light_off.xml to ./img/origin
+2025-04-21T11:14:08.374726+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_checkin_position.xml to ./img/origin
+2025-04-21T11:14:08.374982+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/contact_my_client.png to ./img/origin
+2025-04-21T11:14:08.375480+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/sui_icon_nav_more_back.xml to ./img/origin
+2025-04-21T11:14:08.376168+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_notice.xml to ./img/origin
+2025-04-21T11:14:08.376618+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_contacts_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.377013+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_wechat_16px.xml to ./img/origin
+2025-04-21T11:14:08.377475+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_insertion_close_32px.xml to ./img/origin
+2025-04-21T11:14:08.378075+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_expend_20px.xml to ./img/origin
+2025-04-21T11:14:08.378318+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/contact_shein.png to ./img/origin
+2025-04-21T11:14:08.378799+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_copylink_24px.xml to ./img/origin
+2025-04-21T11:14:08.379049+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_dialog_length_short.png to ./img/origin
+2025-04-21T11:14:08.379423+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_check_unselected.xml to ./img/origin
+2025-04-21T11:14:08.379831+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/sign_clear.xml to ./img/origin
+2025-04-21T11:14:08.380242+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_filter_delete.xml to ./img/origin
+2025-04-21T11:14:08.380654+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_tip.xml to ./img/origin
+2025-04-21T11:14:08.381135+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_email_fill_30px.xml to ./img/origin
+2025-04-21T11:14:08.381612+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_input_32dp.xml to ./img/origin
+2025-04-21T11:14:08.382091+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/contact_other.png to ./img/origin
+2025-04-21T11:14:08.382713+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_blue_no_background.xml to ./img/origin
+2025-04-21T11:14:08.383695+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_file.png to ./img/origin
+2025-04-21T11:14:08.384526+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan_corner_lt.xml to ./img/origin
+2025-04-21T11:14:08.384968+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/tuiemoji_default_emoji_group_icon.png to ./img/origin
+2025-04-21T11:14:08.385380+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_dot_selected.png to ./img/origin
+2025-04-21T11:14:08.385660+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/sui_icon_save_filled.png to ./img/origin
+2025-04-21T11:14:08.386058+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan_corner_lb.xml to ./img/origin
+2025-04-21T11:14:08.387233+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_message_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.387762+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_download.xml to ./img/origin
+2025-04-21T11:14:08.388386+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_deleteclose_20px.xml to ./img/origin
+2025-04-21T11:14:08.388823+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_fav.png to ./img/origin
+2025-04-21T11:14:08.389505+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_pinned_sound.xml to ./img/origin
+2025-04-21T11:14:08.389819+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_shot.png to ./img/origin
+2025-04-21T11:14:08.390637+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_pre_month.xml to ./img/origin
+2025-04-21T11:14:08.391172+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_time_checked.xml to ./img/origin
+2025-04-21T11:14:08.391627+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_menu_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.395017+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_voicecall_fill_34px.xml to ./img/origin
+2025-04-21T11:14:08.395903+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/me_sign_image.xml to ./img/origin
+2025-04-21T11:14:08.397300+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_translate_done.xml to ./img/origin
+2025-04-21T11:14:08.398488+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_check_selected.xml to ./img/origin
+2025-04-21T11:14:08.399524+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_dialog_cancel.png to ./img/origin
+2025-04-21T11:14:08.401250+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_phonecall_30px.xml to ./img/origin
+2025-04-21T11:14:08.402004+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_position.xml to ./img/origin
+2025-04-21T11:14:08.402782+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_speech_32px.xml to ./img/origin
+2025-04-21T11:14:08.403167+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan.xml to ./img/origin
+2025-04-21T11:14:08.404146+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_meeting_search.xml to ./img/origin
+2025-04-21T11:14:08.405468+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_save_32px.xml to ./img/origin
+2025-04-21T11:14:08.406194+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/edit_notify_top.xml to ./img/origin
+2025-04-21T11:14:08.406839+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_contacts_fill_30px.xml to ./img/origin
+2025-04-21T11:14:08.407493+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_arrowdown_fill_8px.xml to ./img/origin
+2025-04-21T11:14:08.408436+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_nav_back.xml to ./img/origin
+2025-04-21T11:14:08.409997+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_pinned_notice.xml to ./img/origin
+2025-04-21T11:14:08.410556+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_rm_pin.xml to ./img/origin
+2025-04-21T11:14:08.411065+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_email_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.411426+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan_corner_rt.xml to ./img/origin
+2025-04-21T11:14:08.411775+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_launcher_foreground.xml to ./img/origin
+2025-04-21T11:14:08.412106+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan_corner_rb.xml to ./img/origin
+2025-04-21T11:14:08.413127+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_keyboard_32px.xml to ./img/origin
+2025-04-21T11:14:08.413593+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_quick_meeting.xml to ./img/origin
+2025-04-21T11:14:08.414035+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_menu.xml to ./img/origin
+2025-04-21T11:14:08.414380+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_overview_booking_meeting.xml to ./img/origin
+2025-04-21T11:14:08.414922+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_translation_24px.xml to ./img/origin
+2025-04-21T11:14:08.415207+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_location.png to ./img/origin
+2025-04-21T11:14:08.416089+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/album_ic_rtc_meeting_finished.xml to ./img/origin
+2025-04-21T11:14:08.416728+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_checkin_set.xml to ./img/origin
+2025-04-21T11:14:08.417486+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_checkin_summary.xml to ./img/origin
+2025-04-21T11:14:08.417994+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_message_fill_30px.xml to ./img/origin
+2025-04-21T11:14:08.418504+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/load_fail.png to ./img/origin
+2025-04-21T11:14:08.418813+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_card.png to ./img/origin
+2025-04-21T11:14:08.419193+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_meeting_blue.xml to ./img/origin
+2025-04-21T11:14:08.419855+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_delete_32px.xml to ./img/origin
+2025-04-21T11:14:08.420359+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_menu_fill_30px.xml to ./img/origin
+2025-04-21T11:14:08.420868+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_overview_join_meeting.xml to ./img/origin
+2025-04-21T11:14:08.421291+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_schedule.png to ./img/origin
+2025-04-21T11:14:08.421586+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_8.png to ./img/origin
+2025-04-21T11:14:08.422107+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_pin_24px.xml to ./img/origin
+2025-04-21T11:14:08.422685+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_pinned_msg.xml to ./img/origin
+2025-04-21T11:14:08.423073+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan_line.xml to ./img/origin
+2025-04-21T11:14:08.423340+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/contact_add.png to ./img/origin
+2025-04-21T11:14:08.423761+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_revoke.xml to ./img/origin
+2025-04-21T11:14:08.424013+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_5.png to ./img/origin
+2025-04-21T11:14:08.424290+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/shein.png to ./img/origin
+2025-04-21T11:14:08.424655+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_voice_msg_playing_1.png to ./img/origin
+2025-04-21T11:14:08.424972+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_overview_quick_meeting.xml to ./img/origin
+2025-04-21T11:14:08.425328+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/me_right.xml to ./img/origin
+2025-04-21T11:14:08.425589+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_4.png to ./img/origin
+2025-04-21T11:14:08.426001+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/conversation_no_network.png to ./img/origin
+2025-04-21T11:14:08.426358+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/at_all_member.xml to ./img/origin
+2025-04-21T11:14:08.426979+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_check_blue_16px.xml to ./img/origin
+2025-04-21T11:14:08.427274+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_send_fail.png to ./img/origin
+2025-04-21T11:14:08.427695+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_expression_32px.xml to ./img/origin
+2025-04-21T11:14:08.428348+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_message_sending_state.xml to ./img/origin
+2025-04-21T11:14:08.428652+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_sent.png to ./img/origin
+2025-04-21T11:14:08.428976+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_6.png to ./img/origin
+2025-04-21T11:14:08.429440+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_voice_msg_playing_2.png to ./img/origin
+2025-04-21T11:14:08.429910+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_add_32px.xml to ./img/origin
+2025-04-21T11:14:08.430582+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_fail_96px.xml to ./img/origin
+2025-04-21T11:14:08.430987+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_voice_msg_playing_3.png to ./img/origin
+2025-04-21T11:14:08.431296+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/message_send_fail.png to ./img/origin
+2025-04-21T11:14:08.431686+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/at_close.xml to ./img/origin
+2025-04-21T11:14:08.432160+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_back.xml to ./img/origin
+2025-04-21T11:14:08.432490+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_7.png to ./img/origin
+2025-04-21T11:14:08.432845+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_down_position_tips.xml to ./img/origin
+2025-04-21T11:14:08.433105+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/default_avatar2.png to ./img/origin
+2025-04-21T11:14:08.433386+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_meeting.png to ./img/origin
+2025-04-21T11:14:08.434028+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/default_emoji.xml to ./img/origin
+2025-04-21T11:14:08.434402+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_next_month.xml to ./img/origin
+2025-04-21T11:14:08.434900+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_3.png to ./img/origin
+2025-04-21T11:14:08.435272+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_meeting_green.xml to ./img/origin
+2025-04-21T11:14:08.435722+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_quick_meeting_24px.xml to ./img/origin
+2025-04-21T11:14:08.436161+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_has_child_menu.xml to ./img/origin
+2025-04-21T11:14:08.436656+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_blue.xml to ./img/origin
+2025-04-21T11:14:08.437178+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/album_ic_rtc_meeting_in_meeting.xml to ./img/origin
+2025-04-21T11:14:08.437422+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_face_delete_btn_icon.png to ./img/origin
+2025-04-21T11:14:08.438676+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_group_notify.xml to ./img/origin
+2025-04-21T11:14:08.438947+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_2.png to ./img/origin
+2025-04-21T11:14:08.439403+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_right_more.xml to ./img/origin
+2025-04-21T11:14:08.439860+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_map_loading.xml to ./img/origin
+2025-04-21T11:14:08.440153+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_red_pocket.png to ./img/origin
+2025-04-21T11:14:08.440455+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_position_up_tips.xml to ./img/origin
+2025-04-21T11:14:08.441038+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_play.png to ./img/origin
+2025-04-21T11:14:08.441727+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/at_selector_unchecked.xml to ./img/origin
+2025-04-21T11:14:08.442582+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_reset.png to ./img/origin
+2025-04-21T11:14:08.443114+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_1.png to ./img/origin
+2025-04-21T11:14:08.443530+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_tag_24px.xml to ./img/origin
+2025-04-21T11:14:08.443947+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_check_selected_disable.xml to ./img/origin
+2025-04-21T11:14:08.444518+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_announcement_16px.xml to ./img/origin
+2025-04-21T11:14:08.444941+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_green_no_background.xml to ./img/origin
+2025-04-21T11:14:08.445382+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/edit_notify_top_unselected.xml to ./img/origin
+2025-04-21T11:14:08.445830+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_untranslation_24px.xml to ./img/origin
+2025-04-21T11:14:08.446459+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_filter_down_arrow.xml to ./img/origin
+2025-04-21T11:14:08.446844+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_read.png to ./img/origin
+2025-04-21T11:14:08.447620+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/at_selector_checked.xml to ./img/origin
+2025-04-21T11:14:08.448299+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_group_forward_to_chat.xml to ./img/origin
+2025-04-21T11:14:08.449068+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_meeting_gray.xml to ./img/origin
+2025-04-21T11:14:08.449366+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_insertion_32px.xml to ./img/origin
+2025-04-21T11:14:08.450004+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_repost_32px.xml to ./img/origin
+2025-04-21T11:14:08.450503+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_photo.png to ./img/origin
+2025-04-21T11:14:08.451009+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_position_60px.xml to ./img/origin
+2025-04-21T11:14:08.451463+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_earth_24px.xml to ./img/origin
+2025-04-21T11:14:08.451837+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_unpin_24px.xml to ./img/origin
+2025-04-21T11:14:08.452513+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_nosearch_120px.xml to ./img/origin
+2025-04-21T11:14:08.453095+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_no_match.xml to ./img/origin
+2025-04-21T11:14:08.453472+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_phone.png to ./img/origin
+2025-04-21T11:14:08.453849+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_arrow_up_gray.xml to ./img/origin
+2025-04-21T11:14:08.454323+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_dot.png to ./img/origin
+2025-04-21T11:14:08.454601+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/chat_more_action_doc.png to ./img/origin
+2025-04-21T11:14:08.455260+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_contact_button.xml to ./img/origin
+2025-04-21T11:14:08.455559+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/search_right_arrow.xml to ./img/origin
+2025-04-21T11:14:08.456042+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/rectangle_789.png to ./img/origin
+2025-04-21T11:14:08.456375+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/converstaion_empty.xml to ./img/origin
+2025-04-21T11:14:08.456870+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_meeting_setting.xml to ./img/origin
+2025-04-21T11:14:08.457124+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_volume_dialog_bg.9.png to ./img/origin
+2025-04-21T11:14:08.457419+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_chat_add.xml to ./img/origin
+2025-04-21T11:14:08.458073+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_scan_light_on.xml to ./img/origin
+2025-04-21T11:14:08.458602+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/ic_launcher_background.xml to ./img/origin
+2025-04-21T11:14:08.458904+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/icon_chat_ignore.xml to ./img/origin
+2025-04-21T11:14:08.459308+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable/contact_service.png to ./img/origin
+2025-04-21T11:14:08.460630+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_delete_24px.webp to ./img/origin
+2025-04-21T11:14:08.460863+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_label_custom.webp to ./img/origin
+2025-04-21T11:14:08.461101+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/sui_icon_select_img_selected_transparent.webp to ./img/origin
+2025-04-21T11:14:08.472642+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_multiselect_filled_24px.webp to ./img/origin
+2025-04-21T11:14:08.472900+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_link_24px.webp to ./img/origin
+2025-04-21T11:14:08.473210+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_chat.webp to ./img/origin
+2025-04-21T11:14:08.473490+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_group_chat.webp to ./img/origin
+2025-04-21T11:14:08.473916+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_online_doc.webp to ./img/origin
+2025-04-21T11:14:08.475211+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_config.webp to ./img/origin
+2025-04-21T11:14:08.475468+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_contact_search_empty.webp to ./img/origin
+2025-04-21T11:14:08.475809+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_item_refresh.webp to ./img/origin
+2025-04-21T11:14:08.476143+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_item_copy.webp to ./img/origin
+2025-04-21T11:14:08.476422+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/login_password_hide.webp to ./img/origin
+2025-04-21T11:14:08.476907+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/ic_setting.png to ./img/origin
+2025-04-21T11:14:08.477157+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_meeting.webp to ./img/origin
+2025-04-21T11:14:08.477817+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/login_bg.webp to ./img/origin
+2025-04-21T11:14:08.478087+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_label_me.webp to ./img/origin
+2025-04-21T11:14:08.478554+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_album.png to ./img/origin
+2025-04-21T11:14:08.478827+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_label_single.webp to ./img/origin
+2025-04-21T11:14:08.479045+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_file.webp to ./img/origin
+2025-04-21T11:14:08.479266+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_quote_24px.webp to ./img/origin
+2025-04-21T11:14:08.479482+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_defaultheadpic_48px.webp to ./img/origin
+2025-04-21T11:14:08.480003+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_label_edit.webp to ./img/origin
+2025-04-21T11:14:08.480308+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_defaultheadpic_group_48px.webp to ./img/origin
+2025-04-21T11:14:08.480817+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_qrcode.png to ./img/origin
+2025-04-21T11:14:08.481095+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_item_browser.webp to ./img/origin
+2025-04-21T11:14:08.481358+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_qr_code.webp to ./img/origin
+2025-04-21T11:14:08.481610+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_add.webp to ./img/origin
+2025-04-21T11:14:08.481876+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/ic_arrow.png to ./img/origin
+2025-04-21T11:14:08.482118+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_select.webp to ./img/origin
+2025-04-21T11:14:08.482365+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/sui_icon_select_m_transparent.webp to ./img/origin
+2025-04-21T11:14:08.482614+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_copy_24px.webp to ./img/origin
+2025-04-21T11:14:08.482869+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_label_unread.webp to ./img/origin
+2025-04-21T11:14:08.483173+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_repo_24px.webp to ./img/origin
+2025-04-21T11:14:08.483573+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/ic_big_img_download.png to ./img/origin
+2025-04-21T11:14:08.483833+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_item_forward.webp to ./img/origin
+2025-04-21T11:14:08.484086+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_label_group.webp to ./img/origin
+2025-04-21T11:14:08.484336+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/login_password_show.webp to ./img/origin
+2025-04-21T11:14:08.484565+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_pics_24px.webp to ./img/origin
+2025-04-21T11:14:08.484811+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_notification_remind.png to ./img/origin
+2025-04-21T11:14:08.485081+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_file_24px.webp to ./img/origin
+2025-04-21T11:14:08.485470+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/ic_collection.png to ./img/origin
+2025-04-21T11:14:08.485944+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_collect_empty.png to ./img/origin
+2025-04-21T11:14:08.486255+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_right_arrow_small.png to ./img/origin
+2025-04-21T11:14:08.486514+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/chat_back_white.png to ./img/origin
+2025-04-21T11:14:08.486761+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_save_24px.png to ./img/origin
+2025-04-21T11:14:08.487018+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_arrow_down.png to ./img/origin
+2025-04-21T11:14:08.487266+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_label_mark.webp to ./img/origin
+2025-04-21T11:14:08.487527+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/core_close_icon.png to ./img/origin
+2025-04-21T11:14:08.487785+0800 | INFO | move /Users/10254072/si-im/app/src/main/res/drawable-xxhdpi/icon_email_line_black.webp to ./img/origin
+2025-04-21T11:14:08.502957+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable/icon_voice_calling_blue_24px.xml to ./img/origin
+2025-04-21T11:14:08.504026+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_sparkling_water.png to ./img/origin
+2025-04-21T11:14:08.504351+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_sharp.png to ./img/origin
+2025-04-21T11:14:08.504628+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_audio_route_speaker.png to ./img/origin
+2025-04-21T11:14:08.505168+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_bright.png to ./img/origin
+2025-04-21T11:14:08.505463+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/effect_seekbar_thumb.png to ./img/origin
+2025-04-21T11:14:08.505749+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_camera_off_red.png to ./img/origin
+2025-04-21T11:14:08.506053+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_video_call.png to ./img/origin
+2025-04-21T11:14:08.506501+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/scene_video_call.png to ./img/origin
+2025-04-21T11:14:08.506795+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_boy.png to ./img/origin
+2025-04-21T11:14:08.507051+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_nose.png to ./img/origin
+2025-04-21T11:14:08.507310+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_close.png to ./img/origin
+2025-04-21T11:14:08.507615+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_vintage.png to ./img/origin
+2025-04-21T11:14:08.507909+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/effect_selected_rec_bg.png to ./img/origin
+2025-04-21T11:14:08.508193+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_voice_call.png to ./img/origin
+2025-04-21T11:14:08.508476+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_camera_off_white.png to ./img/origin
+2025-04-21T11:14:08.508756+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_whiten.png to ./img/origin
+2025-04-21T11:14:08.509009+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_microphone_off.png to ./img/origin
+2025-04-21T11:14:08.509283+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_camera_switch.png to ./img/origin
+2025-04-21T11:14:08.509670+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_milk_tea.png to ./img/origin
+2025-04-21T11:14:08.510036+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_dracula.png to ./img/origin
+2025-04-21T11:14:08.510410+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_nature.png to ./img/origin
+2025-04-21T11:14:08.510647+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_audio_route_earpiece.png to ./img/origin
+2025-04-21T11:14:08.510888+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_landscape.png to ./img/origin
+2025-04-21T11:14:08.511134+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_back_arrow.png to ./img/origin
+2025-04-21T11:14:08.511409+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_smooth.png to ./img/origin
+2025-04-21T11:14:08.511832+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/empty_view.png to ./img/origin
+2025-04-21T11:14:08.512115+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_no_select.png to ./img/origin
+2025-04-21T11:14:08.512379+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_remove_pouch.png to ./img/origin
+2025-04-21T11:14:08.512776+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_american_film.png to ./img/origin
+2025-04-21T11:14:08.513026+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_slim_face.png to ./img/origin
+2025-04-21T11:14:08.513266+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_jawbone.png to ./img/origin
+2025-04-21T11:14:08.513518+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/bg_calle_name_prefix.webp to ./img/origin
+2025-04-21T11:14:08.514009+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_green.png to ./img/origin
+2025-04-21T11:14:08.514294+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_search.png to ./img/origin
+2025-04-21T11:14:08.514591+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_big_eye.png to ./img/origin
+2025-04-21T11:14:08.514876+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_enter_pip.png to ./img/origin
+2025-04-21T11:14:08.515146+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/effect_btn_selected_bg.png to ./img/origin
+2025-04-21T11:14:08.515451+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/icon_warning.png to ./img/origin
+2025-04-21T11:14:08.515735+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_smiles_folds.png to ./img/origin
+2025-04-21T11:14:08.516158+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_bright_orange.png to ./img/origin
+2025-04-21T11:14:08.516410+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_dial_put_through.png to ./img/origin
+2025-04-21T11:14:08.516666+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_food.png to ./img/origin
+2025-04-21T11:14:08.516958+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_nature.png to ./img/origin
+2025-04-21T11:14:08.517215+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_narrow_face.png to ./img/origin
+2025-04-21T11:14:08.517482+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/effect_btn_normal_bg.png to ./img/origin
+2025-04-21T11:14:08.517783+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_cheekbone.png to ./img/origin
+2025-04-21T11:14:08.518158+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_gril.png to ./img/origin
+2025-04-21T11:14:08.518429+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_warning.png to ./img/origin
+2025-04-21T11:14:08.518734+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_hangup.png to ./img/origin
+2025-04-21T11:14:08.519020+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_video_effect.png to ./img/origin
+2025-04-21T11:14:08.519591+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/bg_effect_dialog.png to ./img/origin
+2025-04-21T11:14:08.519910+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_microphone_on.png to ./img/origin
+2025-04-21T11:14:08.520195+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_ringing_tune.png to ./img/origin
+2025-04-21T11:14:08.520473+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_portrait.png to ./img/origin
+2025-04-21T11:14:08.520959+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/bg_calling_animation.png to ./img/origin
+2025-04-21T11:14:08.521266+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/bg_round.png to ./img/origin
+2025-04-21T11:14:08.521523+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_camera_on.png to ./img/origin
+2025-04-21T11:14:08.521788+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_clear.png to ./img/origin
+2025-04-21T11:14:08.522233+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_cold_white.png to ./img/origin
+2025-04-21T11:14:08.522689+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/videocall/src/main/res/drawable-xxhdpi/ic_effect_filter_hokkaido.png to ./img/origin
+2025-04-21T11:14:08.527505+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/LoginKit/src/main/res/drawable-xxxhdpi/login_update.png to ./img/origin
+2025-04-21T11:14:08.528011+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/LoginKit/src/main/res/drawable-xxxhdpi/login_background_image.webp to ./img/origin
+2025-04-21T11:14:08.528513+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/LoginKit/src/main/res/drawable-xxxhdpi/ic_circle_checked.png to ./img/origin
+2025-04-21T11:14:08.528813+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/LoginKit/src/main/res/drawable-xxxhdpi/close_red.png to ./img/origin
+2025-04-21T11:14:08.529086+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/LoginKit/src/main/res/drawable-xxxhdpi/ic_circle_unchecked.png to ./img/origin
+2025-04-21T11:14:08.529330+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/LoginKit/src/main/res/drawable-xxxhdpi/edit_name_clear_icon.png to ./img/origin
+2025-04-21T11:14:08.532847+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/ToolKit/src/main/res/drawable-xxhdpi/common_refresh.png to ./img/origin
+2025-04-21T11:14:08.533129+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/ToolKit/src/main/res/drawable-xxhdpi/close_red.png to ./img/origin
+2025-04-21T11:14:08.533392+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/ToolKit/src/main/res/drawable-xxhdpi/common_right_arrow.png to ./img/origin
+2025-04-21T11:14:08.533689+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/component/ToolKit/src/main/res/drawable-xxhdpi/common_back_arrow.png to ./img/origin
+2025-04-21T11:14:08.537731+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/main_page_selected.png to ./img/origin
+2025-04-21T11:14:08.538371+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/app_icon.png to ./img/origin
+2025-04-21T11:14:08.538818+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/verify_update.png to ./img/origin
+2025-04-21T11:14:08.539185+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/profile_unselected.png to ./img/origin
+2025-04-21T11:14:08.539444+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/main_page_unselected.png to ./img/origin
+2025-04-21T11:14:08.539848+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/byteplus_logo.png to ./img/origin
+2025-04-21T11:14:08.540113+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/profile_selected.png to ./img/origin
+2025-04-21T11:14:08.540624+0800 | INFO | move /Users/10254072/si-im/si_rtc_call/src/withRtc/res/drawable-xxhdpi/app_logo.png to ./img/origin
+2025-04-21T11:14:08.546336+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_check_green_12px.xml to ./img/origin
+2025-04-21T11:14:08.547087+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_fastmeeting_fill_34px.xml to ./img/origin
+2025-04-21T11:14:08.547504+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nav_minimize.xml to ./img/origin
+2025-04-21T11:14:08.547900+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_check_black_16px.xml to ./img/origin
+2025-04-21T11:14:08.548391+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_video_off_32px.xml to ./img/origin
+2025-04-21T11:14:08.548800+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_wechat_16px.xml to ./img/origin
+2025-04-21T11:14:08.549086+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_transparent.xml to ./img/origin
+2025-04-21T11:14:08.549382+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_voicecall_cancel_18px.xml to ./img/origin
+2025-04-21T11:14:08.549671+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_ic_back.xml to ./img/origin
+2025-04-21T11:14:08.549983+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_ic_close.xml to ./img/origin
+2025-04-21T11:14:08.550398+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_ppt.xml to ./img/origin
+2025-04-21T11:14:08.550709+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nonnotification_16px.xml to ./img/origin
+2025-04-21T11:14:08.551167+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_copylink_24px.xml to ./img/origin
+2025-04-21T11:14:08.551555+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_preview_select_p.xml to ./img/origin
+2025-04-21T11:14:08.551949+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_check_in_96px.xml to ./img/origin
+2025-04-21T11:14:08.552773+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_pause.xml to ./img/origin
+2025-04-21T11:14:08.553168+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/sui_icon_setting_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.553576+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_regular_28px.xml to ./img/origin
+2025-04-21T11:14:08.554411+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_share_24px.xml to ./img/origin
+2025-04-21T11:14:08.554709+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_video_white_32px.xml to ./img/origin
+2025-04-21T11:14:08.554993+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_top_alert.xml to ./img/origin
+2025-04-21T11:14:08.555287+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nav_add_pressed_24px.xml to ./img/origin
+2025-04-21T11:14:08.555677+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_time_72.xml to ./img/origin
+2025-04-21T11:14:08.556074+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_deleteclose_20px.xml to ./img/origin
+2025-04-21T11:14:08.556640+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/agenda_to.xml to ./img/origin
+2025-04-21T11:14:08.556952+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_shein_doc_small.xml to ./img/origin
+2025-04-21T11:14:08.557356+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_mic_closed.xml to ./img/origin
+2025-04-21T11:14:08.557740+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_meetingroom_16px.xml to ./img/origin
+2025-04-21T11:14:08.558054+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/add_person_call.xml to ./img/origin
+2025-04-21T11:14:08.558630+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_copy_16px.xml to ./img/origin
+2025-04-21T11:14:08.559293+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/chat_permission_icon_camera.png to ./img/origin
+2025-04-21T11:14:08.559622+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_pending_fill_12px.xml to ./img/origin
+2025-04-21T11:14:08.560299+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_downtrangle.xml to ./img/origin
+2025-04-21T11:14:08.560669+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_ic_camera.xml to ./img/origin
+2025-04-21T11:14:08.560967+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_success_filled_68px.xml to ./img/origin
+2025-04-21T11:14:08.561270+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_audio.xml to ./img/origin
+2025-04-21T11:14:08.561670+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_calendar_fill_32px.xml to ./img/origin
+2025-04-21T11:14:08.562219+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_search_16px.xml to ./img/origin
+2025-04-21T11:14:08.562651+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_warn_18.xml to ./img/origin
+2025-04-21T11:14:08.563054+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/sui_icon_setting_fill_30px.xml to ./img/origin
+2025-04-21T11:14:08.563372+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_mic_open.xml to ./img/origin
+2025-04-21T11:14:08.563697+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_schedule_line_18px.xml to ./img/origin
+2025-04-21T11:14:08.563982+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_ic_video.xml to ./img/origin
+2025-04-21T11:14:08.564272+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_headset_usb_32px.xml to ./img/origin
+2025-04-21T11:14:08.564771+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_repeat_24px.xml to ./img/origin
+2025-04-21T11:14:08.565103+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_play.xml to ./img/origin
+2025-04-21T11:14:08.565705+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_default_avatar.xml to ./img/origin
+2025-04-21T11:14:08.566056+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_phone_accept_green_32px.xml to ./img/origin
+2025-04-21T11:14:08.566657+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_caution_16px.xml to ./img/origin
+2025-04-21T11:14:08.567082+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_reject_fill_12px.xml to ./img/origin
+2025-04-21T11:14:08.567400+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_ic_gif.xml to ./img/origin
+2025-04-21T11:14:08.567805+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_ear_32px.xml to ./img/origin
+2025-04-21T11:14:08.568179+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/search.xml to ./img/origin
+2025-04-21T11:14:08.568680+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_add_fill_24px.xml to ./img/origin
+2025-04-21T11:14:08.569100+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_video_18px.xml to ./img/origin
+2025-04-21T11:14:08.569479+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_video_fill_18px.xml to ./img/origin
+2025-04-21T11:14:08.569781+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_address_16px.xml to ./img/origin
+2025-04-21T11:14:08.570113+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/chat_permission_icon_mic.png to ./img/origin
+2025-04-21T11:14:08.570448+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_schedule_24px.xml to ./img/origin
+2025-04-21T11:14:08.570767+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_ic_dropdown.xml to ./img/origin
+2025-04-21T11:14:08.571073+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nav_add_blue_20px.xml to ./img/origin
+2025-04-21T11:14:08.571586+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nav_menu_24px.xml to ./img/origin
+2025-04-21T11:14:08.572309+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_check_in_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.572901+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nav_filter_24px.xml to ./img/origin
+2025-04-21T11:14:08.573864+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_caution.xml to ./img/origin
+2025-04-21T11:14:08.574193+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_noresult_120px.xml to ./img/origin
+2025-04-21T11:14:08.574691+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_abnormal_28px.xml to ./img/origin
+2025-04-21T11:14:08.575592+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_voice_fill_18px.xml to ./img/origin
+2025-04-21T11:14:08.576029+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_clear_14px.xml to ./img/origin
+2025-04-21T11:14:08.576381+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_phone_accept_48px.xml to ./img/origin
+2025-04-21T11:14:08.576769+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nav_close_24px.xml to ./img/origin
+2025-04-21T11:14:08.577399+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_arrow_back_24.xml to ./img/origin
+2025-04-21T11:14:08.577829+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_arrowright_16px.xml to ./img/origin
+2025-04-21T11:14:08.578249+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_statistics_fill_30px.xml to ./img/origin
+2025-04-21T11:14:08.578879+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_call_fill_18px.xml to ./img/origin
+2025-04-21T11:14:08.579168+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/chat_permission_icon_file.png to ./img/origin
+2025-04-21T11:14:08.579564+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_shein_doc.xml to ./img/origin
+2025-04-21T11:14:08.580060+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_checkin_circle.xml to ./img/origin
+2025-04-21T11:14:08.580745+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_label_setting.xml to ./img/origin
+2025-04-21T11:14:08.581377+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_arrow_right_40px.xml to ./img/origin
+2025-04-21T11:14:08.582101+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_avatar_calendar_48px.xml to ./img/origin
+2025-04-21T11:14:08.582476+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_member_16px.xml to ./img/origin
+2025-04-21T11:14:08.582808+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_loudspeaker_32px.xml to ./img/origin
+2025-04-21T11:14:08.583122+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_fiipcamera_32px.xml to ./img/origin
+2025-04-21T11:14:08.584278+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_time_fill_16px.xml to ./img/origin
+2025-04-21T11:14:08.584742+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_check_in_fill_30px.xml to ./img/origin
+2025-04-21T11:14:08.585777+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_vacation.xml to ./img/origin
+2025-04-21T11:14:08.586131+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_bluetooth_32px.xml to ./img/origin
+2025-04-21T11:14:08.586576+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_nav_add_common_24px.xml to ./img/origin
+2025-04-21T11:14:08.587028+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_loudspeaker_off_32px.xml to ./img/origin
+2025-04-21T11:14:08.587369+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_video_cancel_18px.xml to ./img/origin
+2025-04-21T11:14:08.587779+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_history_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.588586+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_statistics_line_30px.xml to ./img/origin
+2025-04-21T11:14:08.589041+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/album_ic_check.xml to ./img/origin
+2025-04-21T11:14:08.589485+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable/icon_phone_hangup_32px.xml to ./img/origin
+2025-04-21T11:14:08.590306+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_computer_online.webp to ./img/origin
+2025-04-21T11:14:08.590574+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_schedule_grey_16px.webp to ./img/origin
+2025-04-21T11:14:08.590875+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_video.webp to ./img/origin
+2025-04-21T11:14:08.591255+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_arrow_right_black.webp to ./img/origin
+2025-04-21T11:14:08.591596+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_dmg.webp to ./img/origin
+2025-04-21T11:14:08.591896+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_schedule_location.webp to ./img/origin
+2025-04-21T11:14:08.592190+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_schedule_blue_16px.webp to ./img/origin
+2025-04-21T11:14:08.592458+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_deleteclose_20px.webp to ./img/origin
+2025-04-21T11:14:08.592725+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_computer_offline.webp to ./img/origin
+2025-04-21T11:14:08.593111+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_black_nav_add.webp to ./img/origin
+2025-04-21T11:14:08.593374+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_nosearch.webp to ./img/origin
+2025-04-21T11:14:08.593626+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_ps.webp to ./img/origin
+2025-04-21T11:14:08.593871+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_move.webp to ./img/origin
+2025-04-21T11:14:08.594110+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_pending.webp to ./img/origin
+2025-04-21T11:14:08.594376+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_multi_select.webp to ./img/origin
+2025-04-21T11:14:08.594618+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_schedule_busy_sun.webp to ./img/origin
+2025-04-21T11:14:08.594859+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_calendar_schedule_room.webp to ./img/origin
+2025-04-21T11:14:08.595096+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_month_normal.webp to ./img/origin
+2025-04-21T11:14:08.595329+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_edit_highlight.webp to ./img/origin
+2025-04-21T11:14:08.595581+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_reject.webp to ./img/origin
+2025-04-21T11:14:08.595822+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_select_all_contact.webp to ./img/origin
+2025-04-21T11:14:08.596051+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_blank_person.webp to ./img/origin
+2025-04-21T11:14:08.596291+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_not_agree.webp to ./img/origin
+2025-04-21T11:14:08.596545+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_avatar_calendar_48px.webp to ./img/origin
+2025-04-21T11:14:08.596806+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_calendar_schedule_room_selected.webp to ./img/origin
+2025-04-21T11:14:08.597078+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_edit.webp to ./img/origin
+2025-04-21T11:14:08.597337+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_week_normal.webp to ./img/origin
+2025-04-21T11:14:08.597597+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_video_blue_16px.webp to ./img/origin
+2025-04-21T11:14:08.597871+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_month_clicked.webp to ./img/origin
+2025-04-21T11:14:08.598258+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_arrowleft.webp to ./img/origin
+2025-04-21T11:14:08.598589+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_video_grey_16px.webp to ./img/origin
+2025-04-21T11:14:08.598991+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_addmenmber.webp to ./img/origin
+2025-04-21T11:14:08.599316+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_week_clicked.webp to ./img/origin
+2025-04-21T11:14:08.599670+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_select_single.webp to ./img/origin
+2025-04-21T11:14:08.600006+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_agreed.webp to ./img/origin
+2025-04-21T11:14:08.600369+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_file_key.webp to ./img/origin
+2025-04-21T11:14:08.600736+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_doc.webp to ./img/origin
+2025-04-21T11:14:08.601041+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_multiple_item_mic_on.png to ./img/origin
+2025-04-21T11:14:08.601367+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_not_pending.webp to ./img/origin
+2025-04-21T11:14:08.601664+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/album_bg_selected_n.webp to ./img/origin
+2025-04-21T11:14:08.601935+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_pic.webp to ./img/origin
+2025-04-21T11:14:08.602409+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_arrowright.webp to ./img/origin
+2025-04-21T11:14:08.602712+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_zip.webp to ./img/origin
+2025-04-21T11:14:08.603006+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_pdf.webp to ./img/origin
+2025-04-21T11:14:08.603322+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_calendar_schedule_date.webp to ./img/origin
+2025-04-21T11:14:08.603607+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_clock.webp to ./img/origin
+2025-04-21T11:14:08.603885+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_dayly_timezone_switch.webp to ./img/origin
+2025-04-21T11:14:08.604156+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_excel.webp to ./img/origin
+2025-04-21T11:14:08.604421+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_not_reject.webp to ./img/origin
+2025-04-21T11:14:08.604692+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_dialog_close.webp to ./img/origin
+2025-04-21T11:14:08.604970+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_timezone_radio_selected.webp to ./img/origin
+2025-04-21T11:14:08.605229+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_schedule_busy_moon.webp to ./img/origin
+2025-04-21T11:14:08.605470+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_unselect.webp to ./img/origin
+2025-04-21T11:14:08.605974+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/bg_week_schedule_right_trangle.webp to ./img/origin
+2025-04-21T11:14:08.606273+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_unknow.webp to ./img/origin
+2025-04-21T11:14:08.606547+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_day_normal.webp to ./img/origin
+2025-04-21T11:14:08.606846+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_loading.webp to ./img/origin
+2025-04-21T11:14:08.607169+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_label_add.webp to ./img/origin
+2025-04-21T11:14:08.607476+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_calendar_schedule_date_selected.webp to ./img/origin
+2025-04-21T11:14:08.607772+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_arrow_right.webp to ./img/origin
+2025-04-21T11:14:08.608061+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_apk.webp to ./img/origin
+2025-04-21T11:14:08.608657+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_file_xmind.webp to ./img/origin
+2025-04-21T11:14:08.608954+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_txt.webp to ./img/origin
+2025-04-21T11:14:08.609221+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_black_close.webp to ./img/origin
+2025-04-21T11:14:08.609781+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_update_dialog.png to ./img/origin
+2025-04-21T11:14:08.610069+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_file_ai.webp to ./img/origin
+2025-04-21T11:14:08.610622+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/s_chat_logo.webp to ./img/origin
+2025-04-21T11:14:08.610953+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_day_clicked.webp to ./img/origin
+2025-04-21T11:14:08.611254+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_file_ae.webp to ./img/origin
+2025-04-21T11:14:08.611574+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_timezone_radio_delete.webp to ./img/origin
+2025-04-21T11:14:08.611870+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_remove.webp to ./img/origin
+2025-04-21T11:14:08.612126+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_title_more.webp to ./img/origin
+2025-04-21T11:14:08.612393+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_mark.webp to ./img/origin
+2025-04-21T11:14:08.612648+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_timezone_radio_unselect.webp to ./img/origin
+2025-04-21T11:14:08.612896+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_close.webp to ./img/origin
+2025-04-21T11:14:08.613286+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_checked.webp to ./img/origin
+2025-04-21T11:14:08.613569+0800 | INFO | move /Users/10254072/si-im/si_common/src/main/res/drawable-xxhdpi/icon_mic_off_14px.png to ./img/origin
+2025-04-21T11:14:08.624187+0800 | INFO | move /Users/10254072/si-im/si_network/src/main/res/drawable/ic_launcher_foreground.xml to ./img/origin
+2025-04-21T11:14:08.624790+0800 | INFO | move /Users/10254072/si-im/si_network/src/main/res/drawable/ic_launcher_background.xml to ./img/origin
+2025-04-21T11:14:08.650049+0800 | INFO | move /Users/10254072/si-im/si_rtc_meet/src/main/res/drawable/ic_refuse.xml to ./img/origin
+2025-04-21T11:14:08.650766+0800 | INFO | move /Users/10254072/si-im/si_rtc_meet/src/main/res/drawable/ic_allow.xml to ./img/origin
+2025-04-21T11:14:08.651754+0800 | INFO | move /Users/10254072/si-im/si_rtc_meet/src/main/res/drawable-xxhdpi/icon_back.png to ./img/origin
+2025-04-21T11:14:08.652307+0800 | INFO | move /Users/10254072/si-im/si_rtc_meet/src/main/res/drawable-xxhdpi/sample_switch_on.png to ./img/origin
+2025-04-21T11:14:08.652834+0800 | INFO | move /Users/10254072/si-im/si_rtc_meet/src/main/res/drawable-xxhdpi/sample_switch_off.png to ./img/origin
+2025-04-21T11:14:08.666875+0800 | INFO | move /Users/10254072/si-im/si_calendar/src/main/res/drawable-xxhdpi/icon_meetingroom.png to ./img/origin
+2025-04-21T11:14:08.667269+0800 | INFO | move /Users/10254072/si-im/si_calendar/src/main/res/drawable-xxhdpi/icon_sel.png to ./img/origin
+2025-04-21T11:14:08.667641+0800 | INFO | move /Users/10254072/si-im/si_calendar/src/main/res/drawable-xxhdpi/icon_empty.png to ./img/origin
+2025-04-21T11:14:08.667947+0800 | INFO | move /Users/10254072/si-im/si_calendar/src/main/res/drawable-xxhdpi/icon_device.png to ./img/origin
+2025-04-21T11:14:08.668224+0800 | INFO | move /Users/10254072/si-im/si_calendar/src/main/res/drawable-xxhdpi/icon_meeting_capacity.png to ./img/origin
+2025-04-21T11:14:08.668498+0800 | INFO | move /Users/10254072/si-im/si_calendar/src/main/res/drawable-xxhdpi/bg_add_pop.png to ./img/origin
+2025-04-21T11:14:08.671001+0800 | INFO | move 474 files to ./img/origin
+2025-04-21T11:14:08.672017+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_gray_no_background.png, file_path:./img/origin/icon_meeting_gray_no_background.xml, to_dir:./img/handled
+2025-04-21T11:14:08.672333+0800 | INFO | move ./img/origin/icon_computer_online.webp to ./img/handled
+2025-04-21T11:14:08.672617+0800 | INFO | move ./img/origin/icon_schedule_grey_16px.webp to ./img/handled
+2025-04-21T11:14:08.672905+0800 | INFO | move ./img/origin/ic_effect_filter_sparkling_water.png to ./img/handled
+2025-04-21T11:14:08.673399+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_green_12px.png, file_path:./img/origin/icon_check_green_12px.xml, to_dir:./img/handled
+2025-04-21T11:14:08.673626+0800 | INFO | move ./img/origin/icon_delete_24px.webp to ./img/handled
+2025-04-21T11:14:08.673897+0800 | INFO | move ./img/origin/default_avatar.png to ./img/handled
+2025-04-21T11:14:08.674149+0800 | INFO | move ./img/origin/icon_label_custom.webp to ./img/handled
+2025-04-21T11:14:08.674508+0800 | INFO | move ./img/origin/sui_icon_select_img_selected_transparent.webp to ./img/handled
+2025-04-21T11:14:08.674890+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan_light_off.png, file_path:./img/origin/icon_scan_light_off.xml, to_dir:./img/handled
+2025-04-21T11:14:08.675379+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_checkin_position.png, file_path:./img/origin/icon_checkin_position.xml, to_dir:./img/handled
+2025-04-21T11:14:08.675882+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_fastmeeting_fill_34px.png, file_path:./img/origin/icon_fastmeeting_fill_34px.xml, to_dir:./img/handled
+2025-04-21T11:14:08.676180+0800 | INFO | move ./img/origin/contact_my_client.png to ./img/handled
+2025-04-21T11:14:08.676567+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_minimize.png, file_path:./img/origin/icon_nav_minimize.xml, to_dir:./img/handled
+2025-04-21T11:14:08.676907+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_black_16px.png, file_path:./img/origin/icon_check_black_16px.xml, to_dir:./img/handled
+2025-04-21T11:14:08.677220+0800 | INFO | get cache png success, cache_png_path:./img/cache/sui_icon_nav_more_back.png, file_path:./img/origin/sui_icon_nav_more_back.xml, to_dir:./img/handled
+2025-04-21T11:14:08.677557+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_notice.png, file_path:./img/origin/ic_notice.xml, to_dir:./img/handled
+2025-04-21T11:14:08.677801+0800 | INFO | move ./img/origin/icon_video.webp to ./img/handled
+2025-04-21T11:14:08.678125+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_video_off_32px.png, file_path:./img/origin/icon_video_off_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:08.678365+0800 | INFO | move ./img/origin/icon_multiselect_filled_24px.webp to ./img/handled
+2025-04-21T11:14:08.678708+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_contacts_line_30px.png, file_path:./img/origin/icon_contacts_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.298057+0800 | ERROR | kimi convert exception, vd_path:./img/origin/icon_wechat_16px.xml error: Unterminated string starting at: line 3 column 10 (char 59) resp: {
+  "desc": "以下是将提供的Vector Drawable转换为SVG格式的结果。",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='16' height='17' viewBox='0 0 16 17'><path d='M12.556 13.925c0 .415-.319.668-.756.708-.373.041-.82-.185-.856-.587-.036-.4-.166-.78-.39-1.01-.02-.022-.07-.07-.112-.116-.04-.05-.012-.104.065-.094.225.319.61.541 1.05.164.163.283.282.283.677z' fill='#FC6401'/><path d='M10.91 9.091c.002-.444.324-.823.774-.822.45 0 .84.208.909.634.069.416.331.885.731 1.288.05.05.087.143.081.215-.006.072-.059.125-.112.11-.42-.115-.881-.31-1.32-.51-.74-.34-.91-.91-.91-1.5z' fill='#2DBD00'/><path d='M9.303 12.457c-.415 0-.769-.32-.809-.757-.04-.437.163-.86.613-.937.45-.077.837-.191 1.175-.608.138-.18.26-.37.376-.522.12-.15.213-.27.304-.27.09 0 .077.122-.035.25-.22.525-.428.909-.809 1.094-.05.026-.102.052-.152.078-.54.26-1.24.51-1.935.51z' fill='#FFCD00'/><path d='M14.043 10.656c.444.003.785.325.822.775.037.45-.24.841-.69.91-.45.07-.9.333-1.277.733-.05.05-.106.087-.134.081-.028-.006-.054-.083-.02-.116.185-.344.417-.883.606-1.34.677-.46.09-.797-.34-.8-.736-.003-.397.23-.719.675-.719z' fill='#0084F0'/><path d='M11.469 3.76c-1.725-1.694-3.8-2.07-5.131-1.557C-1.276 3.294-.019 7.519 2.072 10.275c.1.135.119.382.081.554-.038.157-.121.654-.253 1.154-.027.218-.183.49-.424.706-.248.23-.523.183-.795-.145-.27-.327-.742-.605-1.198-.75-.347-.138-.616-.132-.95-.025-.72.107-1.414.21-2.097.395-.02.01-.04.02-.06.03 1.09-.293 2.237-.226 3.323.03.74.176 1.434.279 2.117.35.48.04.96-.022 1.332-.094.38-.072.91-.164 1.481-.34.583-.176 1.116-.36 1.59-.532.02-.01.04-.02.06-.03-.58-.07-1.215-.17-1.898-.35
+2025-04-21T11:14:32.301734+0800 | INFO | move ./img/origin/icon_arrow_right_black.webp to ./img/handled
+2025-04-21T11:14:32.305187+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_transparent.png, file_path:./img/origin/icon_transparent.xml, to_dir:./img/handled
+2025-04-21T11:14:32.308120+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_insertion_close_32px.png, file_path:./img/origin/icon_insertion_close_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.310428+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_voicecall_cancel_18px.png, file_path:./img/origin/icon_voicecall_cancel_18px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.311671+0800 | INFO | move ./img/origin/main_page_selected.png to ./img/handled
+2025-04-21T11:14:32.313106+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_back.png, file_path:./img/origin/album_ic_back.xml, to_dir:./img/handled
+2025-04-21T11:14:32.314554+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_close.png, file_path:./img/origin/album_ic_close.xml, to_dir:./img/handled
+2025-04-21T11:14:32.315548+0800 | INFO | move ./img/origin/icon_link_24px.webp to ./img/handled
+2025-04-21T11:14:32.317175+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_ppt.png, file_path:./img/origin/icon_ppt.xml, to_dir:./img/handled
+2025-04-21T11:14:32.318878+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_expend_20px.png, file_path:./img/origin/icon_expend_20px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.319896+0800 | INFO | move ./img/origin/icon_dmg.webp to ./img/handled
+2025-04-21T11:14:32.320798+0800 | INFO | move ./img/origin/icon_chat.webp to ./img/handled
+2025-04-21T11:14:32.321695+0800 | INFO | move ./img/origin/contact_shein.png to ./img/handled
+2025-04-21T11:14:32.323079+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nonnotification_16px.png, file_path:./img/origin/icon_nonnotification_16px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.324586+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_copylink_24px.png, file_path:./img/origin/icon_copylink_24px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.325579+0800 | INFO | move ./img/origin/ic_volume_dialog_length_short.png to ./img/handled
+2025-04-21T11:14:32.326565+0800 | INFO | move ./img/origin/icon_group_chat.webp to ./img/handled
+2025-04-21T11:14:32.328114+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_unselected.png, file_path:./img/origin/icon_check_unselected.xml, to_dir:./img/handled
+2025-04-21T11:14:32.329724+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_preview_select_p.png, file_path:./img/origin/album_preview_select_p.xml, to_dir:./img/handled
+2025-04-21T11:14:32.330681+0800 | INFO | move ./img/origin/icon_schedule_location.webp to ./img/handled
+2025-04-21T11:14:32.332099+0800 | INFO | get cache png success, cache_png_path:./img/cache/sign_clear.png, file_path:./img/origin/sign_clear.xml, to_dir:./img/handled
+2025-04-21T11:14:32.333666+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_in_96px.png, file_path:./img/origin/icon_check_in_96px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.334774+0800 | INFO | move ./img/origin/ic_effect_sharp.png to ./img/handled
+2025-04-21T11:14:32.336185+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_filter_delete.png, file_path:./img/origin/search_filter_delete.xml, to_dir:./img/handled
+2025-04-21T11:14:32.337260+0800 | INFO | move ./img/origin/ic_audio_route_speaker.png to ./img/handled
+2025-04-21T11:14:32.338281+0800 | INFO | move ./img/origin/login_update.png to ./img/handled
+2025-04-21T11:14:32.339849+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_tip.png, file_path:./img/origin/icon_tip.xml, to_dir:./img/handled
+2025-04-21T11:14:32.341532+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_email_fill_30px.png, file_path:./img/origin/icon_email_fill_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.342691+0800 | INFO | move ./img/origin/icon_online_doc.webp to ./img/handled
+2025-04-21T11:14:32.344309+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_input_32dp.png, file_path:./img/origin/icon_input_32dp.xml, to_dir:./img/handled
+2025-04-21T11:14:32.345422+0800 | INFO | move ./img/origin/icon_config.webp to ./img/handled
+2025-04-21T11:14:32.346632+0800 | INFO | move ./img/origin/icon_schedule_blue_16px.webp to ./img/handled
+2025-04-21T11:14:32.347637+0800 | INFO | move ./img/origin/icon_deleteclose_20px.webp to ./img/handled
+2025-04-21T11:14:32.348732+0800 | INFO | move ./img/origin/contact_other.png to ./img/handled
+2025-04-21T11:14:32.349846+0800 | INFO | move ./img/origin/login_background_image.webp to ./img/handled
+2025-04-21T11:14:32.350899+0800 | INFO | move ./img/origin/icon_computer_offline.webp to ./img/handled
+2025-04-21T11:14:32.352041+0800 | INFO | move ./img/origin/ic_effect_filter_bright.png to ./img/handled
+2025-04-21T11:14:32.353069+0800 | INFO | move ./img/origin/icon_contact_search_empty.webp to ./img/handled
+2025-04-21T11:14:32.354167+0800 | INFO | move ./img/origin/effect_seekbar_thumb.png to ./img/handled
+2025-04-21T11:14:32.355921+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_pause.png, file_path:./img/origin/album_pause.xml, to_dir:./img/handled
+2025-04-21T11:14:32.357593+0800 | INFO | get cache png success, cache_png_path:./img/cache/sui_icon_setting_line_30px.png, file_path:./img/origin/sui_icon_setting_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.359413+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_blue_no_background.png, file_path:./img/origin/icon_meeting_blue_no_background.xml, to_dir:./img/handled
+2025-04-21T11:14:32.360626+0800 | INFO | move ./img/origin/ic_camera_off_red.png to ./img/handled
+2025-04-21T11:14:32.362254+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_regular_28px.png, file_path:./img/origin/icon_regular_28px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.363352+0800 | INFO | move ./img/origin/ic_video_call.png to ./img/handled
+2025-04-21T11:14:32.364334+0800 | INFO | move ./img/origin/chat_more_action_file.png to ./img/handled
+2025-04-21T11:14:32.366189+0800 | INFO | move ./img/origin/icon_back.png to ./img/handled
+2025-04-21T11:14:32.367736+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan_corner_lt.png, file_path:./img/origin/icon_scan_corner_lt.xml, to_dir:./img/handled
+2025-04-21T11:14:32.368698+0800 | INFO | move ./img/origin/icon_black_nav_add.webp to ./img/handled
+2025-04-21T11:14:32.369549+0800 | INFO | move ./img/origin/icon_nosearch.webp to ./img/handled
+2025-04-21T11:14:32.370463+0800 | INFO | move ./img/origin/common_refresh.png to ./img/handled
+2025-04-21T11:14:32.371363+0800 | INFO | move ./img/origin/scene_video_call.png to ./img/handled
+2025-04-21T11:14:32.372381+0800 | INFO | move ./img/origin/icon_ps.webp to ./img/handled
+2025-04-21T11:14:32.373407+0800 | INFO | move ./img/origin/icon_item_refresh.webp to ./img/handled
+2025-04-21T11:14:32.374387+0800 | INFO | move ./img/origin/tuiemoji_default_emoji_group_icon.png to ./img/handled
+2025-04-21T11:14:32.375342+0800 | INFO | move ./img/origin/icon_meetingroom.png to ./img/handled
+2025-04-21T11:14:32.376260+0800 | INFO | move ./img/origin/chat_more_action_dot_selected.png to ./img/handled
+2025-04-21T11:14:32.377179+0800 | INFO | move ./img/origin/icon_move.webp to ./img/handled
+2025-04-21T11:14:32.378172+0800 | INFO | move ./img/origin/ic_circle_checked.png to ./img/handled
+2025-04-21T11:14:32.379057+0800 | INFO | move ./img/origin/sui_icon_save_filled.png to ./img/handled
+2025-04-21T11:14:32.379958+0800 | INFO | move ./img/origin/icon_item_copy.webp to ./img/handled
+2025-04-21T11:14:32.381322+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan_corner_lb.png, file_path:./img/origin/icon_scan_corner_lb.xml, to_dir:./img/handled
+2025-04-21T11:14:32.382691+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_share_24px.png, file_path:./img/origin/icon_share_24px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.384027+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_message_line_30px.png, file_path:./img/origin/icon_message_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.384922+0800 | INFO | move ./img/origin/close_red.png to ./img/handled
+2025-04-21T11:14:32.385851+0800 | INFO | move ./img/origin/ic_effect_boy.png to ./img/handled
+2025-04-21T11:14:32.387063+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_video_white_32px.png, file_path:./img/origin/icon_video_white_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.388373+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_top_alert.png, file_path:./img/origin/icon_top_alert.xml, to_dir:./img/handled
+2025-04-21T11:14:32.389865+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_download.png, file_path:./img/origin/icon_download.xml, to_dir:./img/handled
+2025-04-21T11:14:32.391168+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_add_pressed_24px.png, file_path:./img/origin/icon_nav_add_pressed_24px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.392359+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_time_72.png, file_path:./img/origin/icon_time_72.xml, to_dir:./img/handled
+2025-04-21T11:14:32.393494+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_deleteclose_20px.png, file_path:./img/origin/icon_deleteclose_20px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.394239+0800 | INFO | move ./img/origin/chat_more_action_fav.png to ./img/handled
+2025-04-21T11:14:32.395370+0800 | INFO | get cache png success, cache_png_path:./img/cache/agenda_to.png, file_path:./img/origin/agenda_to.xml, to_dir:./img/handled
+2025-04-21T11:14:32.396400+0800 | INFO | move ./img/origin/app_icon.png to ./img/handled
+2025-04-21T11:14:32.397712+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_shein_doc_small.png, file_path:./img/origin/icon_shein_doc_small.xml, to_dir:./img/handled
+2025-04-21T11:14:32.398859+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_pinned_sound.png, file_path:./img/origin/icon_pinned_sound.xml, to_dir:./img/handled
+2025-04-21T11:14:32.399671+0800 | INFO | move ./img/origin/chat_more_action_shot.png to ./img/handled
+2025-04-21T11:14:32.400472+0800 | INFO | move ./img/origin/login_password_hide.webp to ./img/handled
+2025-04-21T11:14:32.401204+0800 | INFO | move ./img/origin/icon_pending.webp to ./img/handled
+2025-04-21T11:14:32.402003+0800 | INFO | move ./img/origin/ic_effect_nose.png to ./img/handled
+2025-04-21T11:14:32.403321+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_pre_month.png, file_path:./img/origin/search_pre_month.xml, to_dir:./img/handled
+2025-04-21T11:14:32.404131+0800 | INFO | move ./img/origin/ic_setting.png to ./img/handled
+2025-04-21T11:14:32.405420+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_mic_closed.png, file_path:./img/origin/icon_mic_closed.xml, to_dir:./img/handled
+2025-04-21T11:14:32.406524+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_time_checked.png, file_path:./img/origin/search_time_checked.xml, to_dir:./img/handled
+2025-04-21T11:14:32.407692+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_menu_line_30px.png, file_path:./img/origin/icon_menu_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.408981+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_voicecall_fill_34px.png, file_path:./img/origin/icon_voicecall_fill_34px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.409882+0800 | INFO | move ./img/origin/ic_close.png to ./img/handled
+2025-04-21T11:14:32.411224+0800 | INFO | get cache png success, cache_png_path:./img/cache/me_sign_image.png, file_path:./img/origin/me_sign_image.xml, to_dir:./img/handled
+2025-04-21T11:14:32.412169+0800 | INFO | move ./img/origin/icon_multi_select.webp to ./img/handled
+2025-04-21T11:14:32.413529+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meetingroom_16px.png, file_path:./img/origin/icon_meetingroom_16px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.414468+0800 | INFO | move ./img/origin/ic_effect_filter_vintage.png to ./img/handled
+2025-04-21T11:14:32.415769+0800 | INFO | get cache png success, cache_png_path:./img/cache/add_person_call.png, file_path:./img/origin/add_person_call.xml, to_dir:./img/handled
+2025-04-21T11:14:32.417276+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_translate_done.png, file_path:./img/origin/icon_translate_done.xml, to_dir:./img/handled
+2025-04-21T11:14:32.418680+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_selected.png, file_path:./img/origin/icon_check_selected.xml, to_dir:./img/handled
+2025-04-21T11:14:32.419608+0800 | INFO | move ./img/origin/ic_volume_dialog_cancel.png to ./img/handled
+2025-04-21T11:14:32.421156+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_phonecall_30px.png, file_path:./img/origin/icon_phonecall_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.422509+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_position.png, file_path:./img/origin/icon_position.xml, to_dir:./img/handled
+2025-04-21T11:14:32.423389+0800 | INFO | move ./img/origin/verify_update.png to ./img/handled
+2025-04-21T11:14:32.424355+0800 | INFO | move ./img/origin/icon_schedule_busy_sun.webp to ./img/handled
+2025-04-21T11:14:32.425666+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_speech_32px.png, file_path:./img/origin/icon_speech_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.426640+0800 | INFO | move ./img/origin/effect_selected_rec_bg.png to ./img/handled
+2025-04-21T11:14:32.427573+0800 | INFO | move ./img/origin/icon_meeting.webp to ./img/handled
+2025-04-21T11:14:32.428895+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan.png, file_path:./img/origin/icon_scan.xml, to_dir:./img/handled
+2025-04-21T11:14:32.430215+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_meeting_search.png, file_path:./img/origin/ic_meeting_search.xml, to_dir:./img/handled
+2025-04-21T11:14:32.432074+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_copy_16px.png, file_path:./img/origin/icon_copy_16px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.433088+0800 | INFO | move ./img/origin/ic_voice_call.png to ./img/handled
+2025-04-21T11:14:32.434447+0800 | INFO | move ./img/origin/login_bg.webp to ./img/handled
+2025-04-21T11:14:32.435380+0800 | INFO | move ./img/origin/icon_label_me.webp to ./img/handled
+2025-04-21T11:14:32.436300+0800 | INFO | move ./img/origin/icon_calendar_schedule_room.webp to ./img/handled
+2025-04-21T11:14:32.437290+0800 | INFO | move ./img/origin/ic_camera_off_white.png to ./img/handled
+2025-04-21T11:14:32.438874+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_refuse.png, file_path:./img/origin/ic_refuse.xml, to_dir:./img/handled
+2025-04-21T11:14:32.439885+0800 | INFO | move ./img/origin/icon_month_normal.webp to ./img/handled
+2025-04-21T11:14:32.440816+0800 | INFO | move ./img/origin/ic_effect_whiten.png to ./img/handled
+2025-04-21T11:14:32.442373+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_save_32px.png, file_path:./img/origin/icon_save_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.443370+0800 | INFO | move ./img/origin/chat_permission_icon_camera.png to ./img/handled
+2025-04-21T11:14:32.444449+0800 | INFO | move ./img/origin/icon_album.png to ./img/handled
+2025-04-21T11:14:32.445527+0800 | INFO | move ./img/origin/icon_edit_highlight.webp to ./img/handled
+2025-04-21T11:14:32.447227+0800 | INFO | get cache png success, cache_png_path:./img/cache/edit_notify_top.png, file_path:./img/origin/edit_notify_top.xml, to_dir:./img/handled
+2025-04-21T11:14:32.448733+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_pending_fill_12px.png, file_path:./img/origin/icon_pending_fill_12px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.449665+0800 | INFO | move ./img/origin/icon_reject.webp to ./img/handled
+2025-04-21T11:14:32.451213+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_contacts_fill_30px.png, file_path:./img/origin/icon_contacts_fill_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.452125+0800 | INFO | move ./img/origin/icon_select_all_contact.webp to ./img/handled
+2025-04-21T11:14:32.453029+0800 | INFO | move ./img/origin/icon_label_single.webp to ./img/handled
+2025-04-21T11:14:32.453965+0800 | INFO | move ./img/origin/ic_microphone_off.png to ./img/handled
+2025-04-21T11:14:32.455274+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_arrowdown_fill_8px.png, file_path:./img/origin/icon_arrowdown_fill_8px.xml, to_dir:./img/handled
+2025-04-21T11:14:32.456585+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_back.png, file_path:./img/origin/icon_nav_back.xml, to_dir:./img/handled
+2025-04-21T11:14:32.457920+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_downtrangle.png, file_path:./img/origin/icon_downtrangle.xml, to_dir:./img/handled
+2025-04-21T11:14:32.459040+0800 | INFO | move ./img/origin/sample_switch_on.png to ./img/handled
+2025-04-21T11:14:54.402531+0800 | ERROR | kimi convert exception, vd_path:./img/origin/icon_pinned_notice.xml error: Unterminated string starting at: line 3 column 10 (char 70) resp: {
+  "desc": "转换后的SVG图像保留了原始Vector Drawable的所有视觉元素，包括颜色和形状。",
+  "svg": "<svg width=\"14\" height=\"13\" viewBox=\"0 0 14 13\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.969 0.849c0.224 0.356-0.038 0.834-0.381 1.067l-1.629 1.1c-0.382 0.231-0.873 0.131-1.106-0.251-0.233-0.382-0.13-0.873 0.252-1.106l1.629-1.1c0.392-0.231 0.893-0.131 1.126 0.251zm-2.599 5.63c0 0.426 0.331 0.771 0.74 0.771h2.601c0.408 0 0.74-0.345 0.74-0.771 0-0.425-0.332-0.77-0.74-0.77h-2.601c-0.409 0-0.74 0.345-0.74 0.77zm-0.305 4.008c0.189-0.377 0.636-0.524 1.007-0.286l1.629 0.885c0.371 0.21 0.512 0.675 0.323 1.046-0.189 0.371-0.636 0.524-1.007 0.286l-1.629-0.885c-0.371-0.21-0.512-0.675-0.323-1.046z\" fill=\"#0066FF\"/><path d=\"M3.848 9.574l.397-.514c-.117-.052-.235-.085-.365-.085H1.84c-.437 0-.799-.306-.799-.682v-3.846c0-.169.196-.391.799-.391h2.008c.117 0 .259-.05.373-.14l-.399-.511.399.511c.001.001.001.001.002.001s.001.001.002-.001l.002-.001.004-.004.021-.017.08-.066.291-.232.741-.527 1.691-1.178.03-.017.056-.03.078-.04c.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.03.078-.04.03-.017.055-.
+2025-04-21T11:14:54.407914+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_rm_pin.png, file_path:./img/origin/icon_rm_pin.xml, to_dir:./img/handled
+2025-04-21T11:14:54.410162+0800 | INFO | move ./img/origin/ic_camera_switch.png to ./img/handled
+2025-04-21T11:14:54.413302+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_email_line_30px.png, file_path:./img/origin/icon_email_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.414810+0800 | INFO | move ./img/origin/profile_unselected.png to ./img/handled
+2025-04-21T11:14:54.416532+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_camera.png, file_path:./img/origin/album_ic_camera.xml, to_dir:./img/handled
+2025-04-21T11:14:54.417751+0800 | INFO | move ./img/origin/icon_file.webp to ./img/handled
+2025-04-21T11:14:54.418760+0800 | INFO | move ./img/origin/icon_quote_24px.webp to ./img/handled
+2025-04-21T11:14:54.420130+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan_corner_rt.png, file_path:./img/origin/icon_scan_corner_rt.xml, to_dir:./img/handled
+2025-04-21T11:14:54.421587+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_success_filled_68px.png, file_path:./img/origin/icon_success_filled_68px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.422924+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_audio.png, file_path:./img/origin/icon_audio.xml, to_dir:./img/handled
+2025-04-21T11:14:54.424256+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_calendar_fill_32px.png, file_path:./img/origin/icon_calendar_fill_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.425668+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_launcher_foreground.png, file_path:./img/origin/ic_launcher_foreground.xml, to_dir:./img/handled
+2025-04-21T11:14:54.426904+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan_corner_rb.png, file_path:./img/origin/icon_scan_corner_rb.xml, to_dir:./img/handled
+2025-04-21T11:14:54.428142+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_search_16px.png, file_path:./img/origin/icon_search_16px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.429590+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_warn_18.png, file_path:./img/origin/icon_warn_18.xml, to_dir:./img/handled
+2025-04-21T11:14:54.430448+0800 | INFO | move ./img/origin/icon_blank_person.webp to ./img/handled
+2025-04-21T11:14:54.431301+0800 | INFO | move ./img/origin/icon_not_agree.webp to ./img/handled
+2025-04-21T11:14:54.432204+0800 | INFO | move ./img/origin/icon_defaultheadpic_48px.webp to ./img/handled
+2025-04-21T11:14:54.433448+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_keyboard_32px.png, file_path:./img/origin/icon_keyboard_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.434514+0800 | INFO | move ./img/origin/ic_effect_filter_milk_tea.png to ./img/handled
+2025-04-21T11:14:54.435431+0800 | INFO | move ./img/origin/icon_avatar_calendar_48px.webp to ./img/handled
+2025-04-21T11:14:54.436970+0800 | INFO | get cache png success, cache_png_path:./img/cache/sui_icon_setting_fill_30px.png, file_path:./img/origin/sui_icon_setting_fill_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.438376+0800 | INFO | get cache png success, cache_png_path:./img/cache/chat_more_action_quick_meeting.png, file_path:./img/origin/chat_more_action_quick_meeting.xml, to_dir:./img/handled
+2025-04-21T11:14:54.439424+0800 | INFO | move ./img/origin/ic_effect_filter_dracula.png to ./img/handled
+2025-04-21T11:14:54.441002+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_mic_open.png, file_path:./img/origin/icon_mic_open.xml, to_dir:./img/handled
+2025-04-21T11:14:54.442448+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_schedule_line_18px.png, file_path:./img/origin/icon_schedule_line_18px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.444076+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_menu.png, file_path:./img/origin/icon_menu.xml, to_dir:./img/handled
+2025-04-21T11:14:54.445936+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_overview_booking_meeting.png, file_path:./img/origin/icon_meeting_overview_booking_meeting.xml, to_dir:./img/handled
+2025-04-21T11:14:54.447398+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_video.png, file_path:./img/origin/album_ic_video.xml, to_dir:./img/handled
+2025-04-21T11:14:54.448530+0800 | INFO | move ./img/origin/ic_effect_filter_nature.png to ./img/handled
+2025-04-21T11:14:54.450056+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_translation_24px.png, file_path:./img/origin/icon_translation_24px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.451164+0800 | INFO | move ./img/origin/icon_calendar_schedule_room_selected.webp to ./img/handled
+2025-04-21T11:14:54.452226+0800 | INFO | move ./img/origin/icon_label_edit.webp to ./img/handled
+2025-04-21T11:14:54.453301+0800 | INFO | move ./img/origin/chat_more_action_location.png to ./img/handled
+2025-04-21T11:14:54.454876+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_headset_usb_32px.png, file_path:./img/origin/icon_headset_usb_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.455918+0800 | INFO | move ./img/origin/icon_edit.webp to ./img/handled
+2025-04-21T11:14:54.457039+0800 | INFO | move ./img/origin/ic_audio_route_earpiece.png to ./img/handled
+2025-04-21T11:14:54.458531+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_rtc_meeting_finished.png, file_path:./img/origin/album_ic_rtc_meeting_finished.xml, to_dir:./img/handled
+2025-04-21T11:14:54.459969+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_repeat_24px.png, file_path:./img/origin/icon_repeat_24px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.461456+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_play.png, file_path:./img/origin/album_play.xml, to_dir:./img/handled
+2025-04-21T11:14:54.463076+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_checkin_set.png, file_path:./img/origin/icon_checkin_set.xml, to_dir:./img/handled
+2025-04-21T11:14:54.464188+0800 | INFO | move ./img/origin/ic_effect_filter_landscape.png to ./img/handled
+2025-04-21T11:14:54.465344+0800 | INFO | move ./img/origin/icon_defaultheadpic_group_48px.webp to ./img/handled
+2025-04-21T11:14:54.466373+0800 | INFO | move ./img/origin/ic_back_arrow.png to ./img/handled
+2025-04-21T11:14:54.467937+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_default_avatar.png, file_path:./img/origin/icon_default_avatar.xml, to_dir:./img/handled
+2025-04-21T11:14:54.469015+0800 | INFO | move ./img/origin/icon_week_normal.webp to ./img/handled
+2025-04-21T11:14:54.470090+0800 | INFO | move ./img/origin/icon_video_blue_16px.webp to ./img/handled
+2025-04-21T11:14:54.471695+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_checkin_summary.png, file_path:./img/origin/icon_checkin_summary.xml, to_dir:./img/handled
+2025-04-21T11:14:54.473373+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_message_fill_30px.png, file_path:./img/origin/icon_message_fill_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.474705+0800 | INFO | move ./img/origin/load_fail.png to ./img/handled
+2025-04-21T11:14:54.475818+0800 | INFO | move ./img/origin/chat_more_action_card.png to ./img/handled
+2025-04-21T11:14:54.476934+0800 | INFO | move ./img/origin/icon_month_clicked.webp to ./img/handled
+2025-04-21T11:14:54.478481+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_meeting_blue.png, file_path:./img/origin/ic_meeting_blue.xml, to_dir:./img/handled
+2025-04-21T11:14:54.480042+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_delete_32px.png, file_path:./img/origin/icon_delete_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.481184+0800 | INFO | move ./img/origin/icon_arrowleft.webp to ./img/handled
+2025-04-21T11:14:54.482752+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_phone_accept_green_32px.png, file_path:./img/origin/icon_phone_accept_green_32px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.483859+0800 | INFO | move ./img/origin/main_page_unselected.png to ./img/handled
+2025-04-21T11:14:54.485189+0800 | INFO | move ./img/origin/icon_qrcode.png to ./img/handled
+2025-04-21T11:14:54.486265+0800 | INFO | move ./img/origin/icon_item_browser.webp to ./img/handled
+2025-04-21T11:14:54.488044+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_menu_fill_30px.png, file_path:./img/origin/icon_menu_fill_30px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.489298+0800 | INFO | move ./img/origin/byteplus_logo.png to ./img/handled
+2025-04-21T11:14:54.490419+0800 | INFO | move ./img/origin/icon_qr_code.webp to ./img/handled
+2025-04-21T11:14:54.491561+0800 | INFO | move ./img/origin/icon_video_grey_16px.webp to ./img/handled
+2025-04-21T11:14:54.493459+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_caution_16px.png, file_path:./img/origin/icon_caution_16px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.495209+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_reject_fill_12px.png, file_path:./img/origin/icon_reject_fill_12px.xml, to_dir:./img/handled
+2025-04-21T11:14:54.496925+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_gif.png, file_path:./img/origin/album_ic_gif.xml, to_dir:./img/handled
+2025-04-21T11:14:54.498123+0800 | INFO | move ./img/origin/icon_addmenmber.webp to ./img/handled
+2025-04-21T11:14:54.499929+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_overview_join_meeting.png, file_path:./img/origin/icon_meeting_overview_join_meeting.xml, to_dir:./img/handled
+2025-04-21T11:14:54.501110+0800 | INFO | move ./img/origin/chat_more_action_schedule.png to ./img/handled
+2025-04-21T11:14:54.502151+0800 | INFO | move ./img/origin/ic_volume_8.png to ./img/handled
+2025-04-21T11:14:54.503774+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_pin_24px.png, file_path:./img/origin/icon_pin_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.228341+0800 | ERROR | kimi convert exception, vd_path:./img/origin/icon_ear_32px.xml error: Unterminated string starting at: line 3 column 10 (char 65) resp: {
+  "desc": "以下是根据提供的Vector Drawable XML内容转换得到的SVG格式。",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><path fill=\"#333333\" d=\"M15.493 6c5.215 0 8.534 3.921 7.913 8.587-.18 1.49-.51 2.071-.91 2.636l-1.83 4.407-1.263 2.852-.06.075c-1.395 2.26-3.72 2.762-5.71 2.027-1.31-.42-2.47-1.82-2.65-3.35-.17-1.37.16-2.77.755-3.93.017-.02.035-.04.06-.06.076-.02.106-.02.134-.01.028.02.05.06.07.13.025.1.08.19.16.27.084.076.15.182.19.305.03.126.05.258.05.39-.03.18-.13.302-.27.41-.72.58-1.27 1.58-1.35 3.17-.08 1.69.59 3.54 1.18 4.76l.04.05 1.705-3.855 2.467-5.745c.082-.26.14-.52.18-.79.46-2.96-1.37-5.33-4.01-5.33-2.09 0-4.006 1.23-4.997 2.95-.53.95-.95 1.81-1.01 2.59l-.016.156c-.03.26-.24.51-.54.66-.3.15-.65.14-.93-.05-.28-.19-.47-.5-.53-.84-.03-.35.03-.72.2-1.05.59-1.35 1.58-3.01 3.01-4.41 1.04-1.37 3.45-.89 4.73 1.68l.037.048 1.535 2.527c.95 1.42 1.45 2.09 1.62 3.1.08 1.39-.09 2.99-.82 3.53-.59.44-1.37.44-1.96-.01-.58-.44-.97-1.26-1.08-2.09-.08-.69.07-1.41.44-2.06l.033-.033c.07-.26.09-.54.06-.81-.09-.8-.44-1.49-1.2-2.21l-.63-.58c-1.05-.83-1.42-1.9-1.46-3.33-.04-2.32 2.09-4.1 4.37-3.03 2.28 1.07 2.48 3.58 1.51 5.91-.09.23-.26.41-.49.48-.23.07-.49.03-.7-.12-.21-.15-.37-.38-.45-.65-.08-.27-.08-.56-.
+2025-04-21T11:15:13.233080+0800 | INFO | get cache png success, cache_png_path:./img/cache/search.png, file_path:./img/origin/search.xml, to_dir:./img/handled
+2025-04-21T11:15:13.235264+0800 | INFO | move ./img/origin/icon_week_clicked.webp to ./img/handled
+2025-04-21T11:15:13.237868+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_pinned_msg.png, file_path:./img/origin/icon_pinned_msg.xml, to_dir:./img/handled
+2025-04-21T11:15:13.239701+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_add_fill_24px.png, file_path:./img/origin/icon_add_fill_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.241869+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_video_18px.png, file_path:./img/origin/icon_video_18px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.243694+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_video_fill_18px.png, file_path:./img/origin/icon_video_fill_18px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.245164+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan_line.png, file_path:./img/origin/icon_scan_line.xml, to_dir:./img/handled
+2025-04-21T11:15:13.246101+0800 | INFO | move ./img/origin/contact_add.png to ./img/handled
+2025-04-21T11:15:13.247667+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_address_16px.png, file_path:./img/origin/icon_address_16px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.248917+0800 | INFO | get cache png success, cache_png_path:./img/cache/chat_revoke.png, file_path:./img/origin/chat_revoke.xml, to_dir:./img/handled
+2025-04-21T11:15:13.249889+0800 | INFO | move ./img/origin/ic_volume_5.png to ./img/handled
+2025-04-21T11:15:13.250748+0800 | INFO | move ./img/origin/shein.png to ./img/handled
+2025-04-21T11:15:13.251604+0800 | INFO | move ./img/origin/chat_permission_icon_mic.png to ./img/handled
+2025-04-21T11:15:13.252516+0800 | INFO | move ./img/origin/ic_effect_smooth.png to ./img/handled
+2025-04-21T11:15:13.253318+0800 | INFO | move ./img/origin/chat_voice_msg_playing_1.png to ./img/handled
+2025-04-21T11:15:13.254690+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_schedule_24px.png, file_path:./img/origin/icon_schedule_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.256019+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_overview_quick_meeting.png, file_path:./img/origin/icon_meeting_overview_quick_meeting.xml, to_dir:./img/handled
+2025-04-21T11:15:13.256874+0800 | INFO | move ./img/origin/icon_select_single.webp to ./img/handled
+2025-04-21T11:15:13.257855+0800 | INFO | move ./img/origin/icon_agreed.webp to ./img/handled
+2025-04-21T11:15:13.259186+0800 | INFO | get cache png success, cache_png_path:./img/cache/me_right.png, file_path:./img/origin/me_right.xml, to_dir:./img/handled
+2025-04-21T11:15:13.260198+0800 | INFO | move ./img/origin/ic_volume_4.png to ./img/handled
+2025-04-21T11:15:13.261276+0800 | INFO | move ./img/origin/empty_view.png to ./img/handled
+2025-04-21T11:15:13.262729+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_dropdown.png, file_path:./img/origin/album_ic_dropdown.xml, to_dir:./img/handled
+2025-04-21T11:15:13.263783+0800 | INFO | move ./img/origin/conversation_no_network.png to ./img/handled
+2025-04-21T11:15:13.265230+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_add_blue_20px.png, file_path:./img/origin/icon_nav_add_blue_20px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.266324+0800 | INFO | move ./img/origin/icon_file_key.webp to ./img/handled
+2025-04-21T11:15:13.267368+0800 | INFO | move ./img/origin/icon_doc.webp to ./img/handled
+2025-04-21T11:15:13.269127+0800 | INFO | get cache png success, cache_png_path:./img/cache/at_all_member.png, file_path:./img/origin/at_all_member.xml, to_dir:./img/handled
+2025-04-21T11:15:13.270411+0800 | INFO | move ./img/origin/ic_effect_no_select.png to ./img/handled
+2025-04-21T11:15:13.271570+0800 | INFO | move ./img/origin/profile_selected.png to ./img/handled
+2025-04-21T11:15:13.273255+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_blue_16px.png, file_path:./img/origin/icon_check_blue_16px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.274372+0800 | INFO | move ./img/origin/ic_effect_remove_pouch.png to ./img/handled
+2025-04-21T11:15:13.275283+0800 | INFO | move ./img/origin/chat_send_fail.png to ./img/handled
+2025-04-21T11:15:13.276321+0800 | INFO | move ./img/origin/icon_multiple_item_mic_on.png to ./img/handled
+2025-04-21T11:15:13.277651+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_expression_32px.png, file_path:./img/origin/icon_expression_32px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.279028+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_message_sending_state.png, file_path:./img/origin/ic_message_sending_state.xml, to_dir:./img/handled
+2025-04-21T11:15:13.280086+0800 | INFO | move ./img/origin/chat_sent.png to ./img/handled
+2025-04-21T11:15:13.281070+0800 | INFO | move ./img/origin/ic_volume_6.png to ./img/handled
+2025-04-21T11:15:13.282456+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_menu_24px.png, file_path:./img/origin/icon_nav_menu_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.283506+0800 | INFO | move ./img/origin/chat_voice_msg_playing_2.png to ./img/handled
+2025-04-21T11:15:13.285134+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_add_32px.png, file_path:./img/origin/icon_add_32px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.286235+0800 | INFO | move ./img/origin/ic_effect_filter_american_film.png to ./img/handled
+2025-04-21T11:15:13.287354+0800 | INFO | move ./img/origin/ic_effect_slim_face.png to ./img/handled
+2025-04-21T11:15:13.288713+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_fail_96px.png, file_path:./img/origin/icon_fail_96px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.289618+0800 | INFO | move ./img/origin/ic_effect_jawbone.png to ./img/handled
+2025-04-21T11:15:13.291005+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_in_line_30px.png, file_path:./img/origin/icon_check_in_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.292669+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_allow.png, file_path:./img/origin/ic_allow.xml, to_dir:./img/handled
+2025-04-21T11:15:13.293671+0800 | INFO | move ./img/origin/chat_voice_msg_playing_3.png to ./img/handled
+2025-04-21T11:15:13.294699+0800 | INFO | move ./img/origin/message_send_fail.png to ./img/handled
+2025-04-21T11:15:13.296152+0800 | INFO | get cache png success, cache_png_path:./img/cache/at_close.png, file_path:./img/origin/at_close.xml, to_dir:./img/handled
+2025-04-21T11:15:13.297143+0800 | INFO | move ./img/origin/icon_add.webp to ./img/handled
+2025-04-21T11:15:13.298517+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_back.png, file_path:./img/origin/search_back.xml, to_dir:./img/handled
+2025-04-21T11:15:13.299445+0800 | INFO | move ./img/origin/ic_volume_7.png to ./img/handled
+2025-04-21T11:15:13.300331+0800 | INFO | move ./img/origin/bg_calle_name_prefix.webp to ./img/handled
+2025-04-21T11:15:13.301767+0800 | INFO | get cache png success, cache_png_path:./img/cache/chat_down_position_tips.png, file_path:./img/origin/chat_down_position_tips.xml, to_dir:./img/handled
+2025-04-21T11:15:13.302895+0800 | INFO | move ./img/origin/default_avatar2.png to ./img/handled
+2025-04-21T11:15:13.303951+0800 | INFO | move ./img/origin/ic_effect_filter_green.png to ./img/handled
+2025-04-21T11:15:13.304970+0800 | INFO | move ./img/origin/chat_more_action_meeting.png to ./img/handled
+2025-04-21T11:15:13.306367+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_filter_24px.png, file_path:./img/origin/icon_nav_filter_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.307329+0800 | INFO | move ./img/origin/icon_not_pending.webp to ./img/handled
+2025-04-21T11:15:13.308360+0800 | INFO | move ./img/origin/album_bg_selected_n.webp to ./img/handled
+2025-04-21T11:15:13.309866+0800 | INFO | get cache png success, cache_png_path:./img/cache/default_emoji.png, file_path:./img/origin/default_emoji.xml, to_dir:./img/handled
+2025-04-21T11:15:13.311399+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_next_month.png, file_path:./img/origin/search_next_month.xml, to_dir:./img/handled
+2025-04-21T11:15:13.312470+0800 | INFO | move ./img/origin/icon_pic.webp to ./img/handled
+2025-04-21T11:15:13.313457+0800 | INFO | move ./img/origin/ic_search.png to ./img/handled
+2025-04-21T11:15:13.314515+0800 | INFO | move ./img/origin/icon_arrowright.webp to ./img/handled
+2025-04-21T11:15:13.315557+0800 | INFO | move ./img/origin/ic_volume_3.png to ./img/handled
+2025-04-21T11:15:13.316986+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_meeting_green.png, file_path:./img/origin/ic_meeting_green.xml, to_dir:./img/handled
+2025-04-21T11:15:13.317813+0800 | INFO | move ./img/origin/icon_zip.webp to ./img/handled
+2025-04-21T11:15:13.318625+0800 | INFO | move ./img/origin/ic_arrow.png to ./img/handled
+2025-04-21T11:15:13.319384+0800 | INFO | move ./img/origin/icon_select.webp to ./img/handled
+2025-04-21T11:15:13.320823+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_quick_meeting_24px.png, file_path:./img/origin/icon_quick_meeting_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.322260+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_caution.png, file_path:./img/origin/icon_caution.xml, to_dir:./img/handled
+2025-04-21T11:15:13.323757+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_has_child_menu.png, file_path:./img/origin/icon_has_child_menu.xml, to_dir:./img/handled
+2025-04-21T11:15:13.325388+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_noresult_120px.png, file_path:./img/origin/icon_noresult_120px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.326861+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_blue.png, file_path:./img/origin/icon_meeting_blue.xml, to_dir:./img/handled
+2025-04-21T11:15:13.328294+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_abnormal_28px.png, file_path:./img/origin/icon_abnormal_28px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.329767+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_rtc_meeting_in_meeting.png, file_path:./img/origin/album_ic_rtc_meeting_in_meeting.xml, to_dir:./img/handled
+2025-04-21T11:15:13.330744+0800 | INFO | move ./img/origin/chat_face_delete_btn_icon.png to ./img/handled
+2025-04-21T11:15:13.332096+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_voice_fill_18px.png, file_path:./img/origin/icon_voice_fill_18px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.333076+0800 | INFO | move ./img/origin/icon_pdf.webp to ./img/handled
+2025-04-21T11:15:13.334040+0800 | INFO | move ./img/origin/icon_sel.png to ./img/handled
+2025-04-21T11:15:13.335575+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_clear_14px.png, file_path:./img/origin/icon_clear_14px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.337008+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_phone_accept_48px.png, file_path:./img/origin/icon_phone_accept_48px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.338449+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_group_notify.png, file_path:./img/origin/icon_group_notify.xml, to_dir:./img/handled
+2025-04-21T11:15:13.339773+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_close_24px.png, file_path:./img/origin/icon_nav_close_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.340732+0800 | INFO | move ./img/origin/icon_empty.png to ./img/handled
+2025-04-21T11:15:13.341695+0800 | INFO | move ./img/origin/ic_effect_big_eye.png to ./img/handled
+2025-04-21T11:15:13.342644+0800 | INFO | move ./img/origin/ic_volume_2.png to ./img/handled
+2025-04-21T11:15:13.344078+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_right_more.png, file_path:./img/origin/icon_right_more.xml, to_dir:./img/handled
+2025-04-21T11:15:13.345014+0800 | INFO | move ./img/origin/ic_enter_pip.png to ./img/handled
+2025-04-21T11:15:13.346448+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_map_loading.png, file_path:./img/origin/icon_map_loading.xml, to_dir:./img/handled
+2025-04-21T11:15:13.347439+0800 | INFO | move ./img/origin/icon_calendar_schedule_date.webp to ./img/handled
+2025-04-21T11:15:13.348389+0800 | INFO | move ./img/origin/common_right_arrow.png to ./img/handled
+2025-04-21T11:15:13.349275+0800 | INFO | move ./img/origin/effect_btn_selected_bg.png to ./img/handled
+2025-04-21T11:15:13.350238+0800 | INFO | move ./img/origin/ic_circle_unchecked.png to ./img/handled
+2025-04-21T11:15:13.351234+0800 | INFO | move ./img/origin/chat_more_action_red_pocket.png to ./img/handled
+2025-04-21T11:15:13.352245+0800 | INFO | move ./img/origin/sui_icon_select_m_transparent.webp to ./img/handled
+2025-04-21T11:15:13.353675+0800 | INFO | get cache png success, cache_png_path:./img/cache/chat_position_up_tips.png, file_path:./img/origin/chat_position_up_tips.xml, to_dir:./img/handled
+2025-04-21T11:15:13.354708+0800 | INFO | move ./img/origin/icon_clock.webp to ./img/handled
+2025-04-21T11:15:13.356249+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_arrow_back_24.png, file_path:./img/origin/icon_arrow_back_24.xml, to_dir:./img/handled
+2025-04-21T11:15:13.357261+0800 | INFO | move ./img/origin/icon_copy_24px.webp to ./img/handled
+2025-04-21T11:15:13.358294+0800 | INFO | move ./img/origin/icon_warning.png to ./img/handled
+2025-04-21T11:15:13.359327+0800 | INFO | move ./img/origin/chat_play.png to ./img/handled
+2025-04-21T11:15:13.360826+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_arrowright_16px.png, file_path:./img/origin/icon_arrowright_16px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.361585+0800 | INFO | move ./img/origin/icon_label_unread.webp to ./img/handled
+2025-04-21T11:15:13.362528+0800 | INFO | move ./img/origin/ic_effect_smiles_folds.png to ./img/handled
+2025-04-21T11:15:13.363854+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_statistics_fill_30px.png, file_path:./img/origin/icon_statistics_fill_30px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.364723+0800 | INFO | move ./img/origin/icon_dayly_timezone_switch.webp to ./img/handled
+2025-04-21T11:15:13.366045+0800 | INFO | get cache png success, cache_png_path:./img/cache/at_selector_unchecked.png, file_path:./img/origin/at_selector_unchecked.xml, to_dir:./img/handled
+2025-04-21T11:15:13.367241+0800 | INFO | move ./img/origin/ic_effect_filter_bright_orange.png to ./img/handled
+2025-04-21T11:15:13.368090+0800 | INFO | move ./img/origin/icon_excel.webp to ./img/handled
+2025-04-21T11:15:13.369320+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_call_fill_18px.png, file_path:./img/origin/icon_call_fill_18px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.370147+0800 | INFO | move ./img/origin/icon_not_reject.webp to ./img/handled
+2025-04-21T11:15:13.371079+0800 | INFO | move ./img/origin/chat_permission_icon_file.png to ./img/handled
+2025-04-21T11:15:13.371968+0800 | INFO | move ./img/origin/common_back_arrow.png to ./img/handled
+2025-04-21T11:15:13.372891+0800 | INFO | move ./img/origin/ic_dial_put_through.png to ./img/handled
+2025-04-21T11:15:13.373800+0800 | INFO | move ./img/origin/ic_effect_filter_food.png to ./img/handled
+2025-04-21T11:15:13.374751+0800 | INFO | move ./img/origin/ic_effect_nature.png to ./img/handled
+2025-04-21T11:15:13.375667+0800 | INFO | move ./img/origin/icon_repo_24px.webp to ./img/handled
+2025-04-21T11:15:13.377078+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_shein_doc.png, file_path:./img/origin/icon_shein_doc.xml, to_dir:./img/handled
+2025-04-21T11:15:13.378030+0800 | INFO | move ./img/origin/ic_effect_narrow_face.png to ./img/handled
+2025-04-21T11:15:13.379404+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_checkin_circle.png, file_path:./img/origin/icon_checkin_circle.xml, to_dir:./img/handled
+2025-04-21T11:15:13.380498+0800 | INFO | move ./img/origin/search_reset.png to ./img/handled
+2025-04-21T11:15:13.381442+0800 | INFO | move ./img/origin/ic_volume_1.png to ./img/handled
+2025-04-21T11:15:13.382871+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_tag_24px.png, file_path:./img/origin/icon_tag_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:13.384267+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_label_setting.png, file_path:./img/origin/icon_label_setting.xml, to_dir:./img/handled
+2025-04-21T11:15:13.385734+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_selected_disable.png, file_path:./img/origin/icon_check_selected_disable.xml, to_dir:./img/handled
+2025-04-21T11:15:37.861111+0800 | ERROR | kimi convert exception, vd_path:./img/origin/icon_announcement_16px.xml error: Unterminated string starting at: line 3 column 10 (char 53) resp: {
+  "desc": "将提供的Vector Drawable转换为SVG格式。",
+  "svg": "<svg width=\"16\" height=\"17\" viewBox=\"0 0 16 17\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.969 2.849c.224.356-.096.834-.514.684l-1.219.52c-.34.23-.774.13-.898-.21-.123-.34.01-.67.34-.805l1.63-1.118c.342-.21.8-.11 1.024.25zM10.37 8.479c0-.426.33-.77.74-.77h2.6c.41 0 .74.34.74.77 0 .43-.33.77-.74.77h-2.6c-.41 0-.74-.34-.74-.77zm-.306 4.008c.19-.377.637-.524 1-.363l1.63.485c.36.2.5.66.31 1.04-.19.38-.64.52-1 .32l-1.63-.87c-.36-.23-.5-.69-.31-1.06z\" fill=\"#0066FF\"/><path d=\"M4.848 11.575l.397-.514c-.117-.052-.239-.096-.366-.096H2.84c-.34 0-.62-.266-.62-.59v-3.85c0-.124.197-.34.64-.34h2.008c.103 0 .245-.05.358-.147l-.4-.51.4.147.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.001.
+2025-04-21T11:15:37.864169+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_green_no_background.png, file_path:./img/origin/icon_meeting_green_no_background.xml, to_dir:./img/handled
+2025-04-21T11:15:37.865745+0800 | INFO | move ./img/origin/app_logo.png to ./img/handled
+2025-04-21T11:15:37.866978+0800 | INFO | move ./img/origin/icon_dialog_close.webp to ./img/handled
+2025-04-21T11:15:37.868060+0800 | INFO | move ./img/origin/icon_timezone_radio_selected.webp to ./img/handled
+2025-04-21T11:15:37.869514+0800 | INFO | get cache png success, cache_png_path:./img/cache/edit_notify_top_unselected.png, file_path:./img/origin/edit_notify_top_unselected.xml, to_dir:./img/handled
+2025-04-21T11:15:37.871094+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_arrow_right_40px.png, file_path:./img/origin/icon_arrow_right_40px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.872704+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_untranslation_24px.png, file_path:./img/origin/icon_untranslation_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.873879+0800 | INFO | move ./img/origin/sample_switch_off.png to ./img/handled
+2025-04-21T11:15:37.874842+0800 | INFO | move ./img/origin/icon_schedule_busy_moon.webp to ./img/handled
+2025-04-21T11:15:37.875762+0800 | INFO | move ./img/origin/icon_unselect.webp to ./img/handled
+2025-04-21T11:15:37.876722+0800 | INFO | move ./img/origin/bg_week_schedule_right_trangle.webp to ./img/handled
+2025-04-21T11:15:37.877959+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_filter_down_arrow.png, file_path:./img/origin/search_filter_down_arrow.xml, to_dir:./img/handled
+2025-04-21T11:15:37.878689+0800 | INFO | move ./img/origin/ic_big_img_download.png to ./img/handled
+2025-04-21T11:15:37.879628+0800 | INFO | move ./img/origin/icon_item_forward.webp to ./img/handled
+2025-04-21T11:15:37.881028+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_avatar_calendar_48px.png, file_path:./img/origin/icon_avatar_calendar_48px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.882005+0800 | INFO | move ./img/origin/effect_btn_normal_bg.png to ./img/handled
+2025-04-21T11:15:37.882892+0800 | INFO | move ./img/origin/icon_label_group.webp to ./img/handled
+2025-04-21T11:15:37.883736+0800 | INFO | move ./img/origin/chat_read.png to ./img/handled
+2025-04-21T11:15:37.885132+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_member_16px.png, file_path:./img/origin/icon_member_16px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.886043+0800 | INFO | move ./img/origin/ic_effect_cheekbone.png to ./img/handled
+2025-04-21T11:15:37.886797+0800 | INFO | move ./img/origin/icon_unknow.webp to ./img/handled
+2025-04-21T11:15:37.888181+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_loudspeaker_32px.png, file_path:./img/origin/icon_loudspeaker_32px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.889061+0800 | INFO | move ./img/origin/icon_day_normal.webp to ./img/handled
+2025-04-21T11:15:37.889888+0800 | INFO | move ./img/origin/icon_loading.webp to ./img/handled
+2025-04-21T11:15:37.890936+0800 | INFO | move ./img/origin/icon_label_add.webp to ./img/handled
+2025-04-21T11:15:37.891916+0800 | INFO | move ./img/origin/login_password_show.webp to ./img/handled
+2025-04-21T11:15:37.892776+0800 | INFO | move ./img/origin/icon_calendar_schedule_date_selected.webp to ./img/handled
+2025-04-21T11:15:37.893831+0800 | INFO | move ./img/origin/icon_arrow_right.webp to ./img/handled
+2025-04-21T11:15:37.895208+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_fiipcamera_32px.png, file_path:./img/origin/icon_fiipcamera_32px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.896523+0800 | INFO | get cache png success, cache_png_path:./img/cache/at_selector_checked.png, file_path:./img/origin/at_selector_checked.xml, to_dir:./img/handled
+2025-04-21T11:15:37.897370+0800 | INFO | move ./img/origin/ic_effect_gril.png to ./img/handled
+2025-04-21T11:15:37.898199+0800 | INFO | move ./img/origin/icon_apk.webp to ./img/handled
+2025-04-21T11:15:37.899488+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_group_forward_to_chat.png, file_path:./img/origin/icon_group_forward_to_chat.xml, to_dir:./img/handled
+2025-04-21T11:15:37.900761+0800 | INFO | move ./img/origin/icon_file_xmind.webp to ./img/handled
+2025-04-21T11:15:37.902480+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_meeting_gray.png, file_path:./img/origin/icon_meeting_gray.xml, to_dir:./img/handled
+2025-04-21T11:15:37.903861+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_insertion_32px.png, file_path:./img/origin/icon_insertion_32px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.904903+0800 | INFO | move ./img/origin/ic_warning.png to ./img/handled
+2025-04-21T11:15:37.906484+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_repost_32px.png, file_path:./img/origin/icon_repost_32px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.907504+0800 | INFO | move ./img/origin/icon_txt.webp to ./img/handled
+2025-04-21T11:15:37.908463+0800 | INFO | move ./img/origin/ic_hangup.png to ./img/handled
+2025-04-21T11:15:37.909323+0800 | INFO | move ./img/origin/icon_black_close.webp to ./img/handled
+2025-04-21T11:15:37.910792+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_time_fill_16px.png, file_path:./img/origin/icon_time_fill_16px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.911402+0800 | INFO | move ./img/origin/chat_more_action_photo.png to ./img/handled
+2025-04-21T11:15:37.912609+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_position_60px.png, file_path:./img/origin/icon_position_60px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.913442+0800 | INFO | move ./img/origin/ic_video_effect.png to ./img/handled
+2025-04-21T11:15:37.914872+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_check_in_fill_30px.png, file_path:./img/origin/icon_check_in_fill_30px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.916309+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_earth_24px.png, file_path:./img/origin/icon_earth_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.917280+0800 | INFO | move ./img/origin/icon_pics_24px.webp to ./img/handled
+2025-04-21T11:15:37.918173+0800 | INFO | move ./img/origin/icon_notification_remind.png to ./img/handled
+2025-04-21T11:15:37.919030+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_voice_calling_blue_24px.png, file_path:./img/origin/icon_voice_calling_blue_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.919758+0800 | INFO | move ./img/origin/icon_update_dialog.png to ./img/handled
+2025-04-21T11:15:37.920683+0800 | INFO | move ./img/origin/bg_effect_dialog.png to ./img/handled
+2025-04-21T11:15:37.921919+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_unpin_24px.png, file_path:./img/origin/icon_unpin_24px.xml, to_dir:./img/handled
+2025-04-21T11:15:37.922858+0800 | INFO | move ./img/origin/ic_microphone_on.png to ./img/handled
+2025-04-21T11:15:37.923799+0800 | INFO | move ./img/origin/ic_ringing_tune.png to ./img/handled
+2025-04-21T11:16:01.361676+0800 | ERROR | kimi convert exception, vd_path:./img/origin/icon_vacation.xml error: Unterminated string starting at: line 3 column 10 (char 59) resp: {
+  "desc": "以下是将提供的Vector Drawable转换为SVG格式的结果。",
+  "svg": "<svg width=\"119\" height=\"118\" viewBox=\"0 0 119 118\" xmlns=\"http://www.w3.org/2000/svg\">\n  <g>\n    <clipPath id=\"clip-path\">\n      <path d=\"M59,5L60,5A53.5,53.5 0,0 1,113.5 58.5L113.5,59.5A53.5,53.5 0,0 1,60 113L59,113A53.5,53.5 0,0 1,5.5 59.5L5.5,58.5A53.5,53.5 0,0 1,59 5z\"/>\n    </clipPath>\n    <path d=\"M59,5L60,5A53.5,53.5 0,0 1,113.5 58.5L113.5,59.5A53.5,53.5 0,0 1,60 113L59,113A53.5,53.5 0,0 1,5.5 59.5L5.5,58.5A53.5,53.5 0,0 1,59 5z\" fill=\"#D0F9FF\"/>\n    <path d=\"M-9,77h139v42h-139z\" fill=\"#7DD8FF\"/>\n    <path d=\"M8,84L39,84A2,2 0,0 1,41 86L41,86A2,2 0,0 1,39 88L8,88A2,2 0,0 1,6 86L6,86A2,2 0,0 1,8 84z\" fill-opacity=\"0.35\" fill=\"#ffffff\"/>\n    <path d=\"M39.61,44.92C40.44,45.38 41,46.27 41,47.29C41,48.79 39.79,50 38.31,50H21.69C20.21,50 19,48.79 19,47.29C19,46.03 19.85,44.98 21.01,44.67C21,44.59 21,44.51 21,44.43C21,42.04 22.89,40.1 25.23,40.1C25.91,40.1 26.55,40.26 27.11,40.55C28.22,38.44 30.48,37 33.08,37C36.77,37 39.77,39.91 39.77,43.5C39.77,43.99 39.71,44.46 39.61,44.92Z\" fill-opacity=\"0.8\" fill=\"#ffffff\"/>\n    <path d=\"M60.85,36.78C60.85,37.57 61.17,38.34 61.73,38.9C62.29,39.46 63.05,39.77 63.84,39.77C64.64,39.77 65.4,39.46 65.96,38.9C66.52,38.34 66.84,37.57 66.84,36.78C66.84,35.99 66.52,35.23 65.96,34.67C65.4,34.1 64.64,
+2025-04-21T11:16:01.365400+0800 | INFO | move ./img/origin/icon_device.png to ./img/handled
+2025-04-21T11:16:01.368404+0800 | INFO | move ./img/origin/icon_meeting_capacity.png to ./img/handled
+2025-04-21T11:16:01.371052+0800 | INFO | move ./img/origin/icon_file_24px.webp to ./img/handled
+2025-04-21T11:16:01.373407+0800 | INFO | move ./img/origin/ic_effect_filter_portrait.png to ./img/handled
+2025-04-21T11:16:01.375532+0800 | INFO | move ./img/origin/bg_calling_animation.png to ./img/handled
+2025-04-21T11:16:01.377231+0800 | INFO | move ./img/origin/icon_file_ai.webp to ./img/handled
+2025-04-21T11:16:01.378920+0800 | INFO | move ./img/origin/ic_collection.png to ./img/handled
+2025-04-21T11:16:01.381658+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nosearch_120px.png, file_path:./img/origin/icon_nosearch_120px.xml, to_dir:./img/handled
+2025-04-21T11:16:01.383982+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_bluetooth_32px.png, file_path:./img/origin/icon_bluetooth_32px.xml, to_dir:./img/handled
+2025-04-21T11:16:01.385256+0800 | INFO | move ./img/origin/bg_add_pop.png to ./img/handled
+2025-04-21T11:16:01.386697+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_no_match.png, file_path:./img/origin/search_no_match.xml, to_dir:./img/handled
+2025-04-21T11:16:01.388299+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_nav_add_common_24px.png, file_path:./img/origin/icon_nav_add_common_24px.xml, to_dir:./img/handled
+2025-04-21T11:16:01.389238+0800 | INFO | move ./img/origin/chat_more_action_phone.png to ./img/handled
+2025-04-21T11:16:01.390693+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_arrow_up_gray.png, file_path:./img/origin/icon_arrow_up_gray.xml, to_dir:./img/handled
+2025-04-21T11:16:01.392341+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_loudspeaker_off_32px.png, file_path:./img/origin/icon_loudspeaker_off_32px.xml, to_dir:./img/handled
+2025-04-21T11:16:01.393589+0800 | INFO | move ./img/origin/icon_collect_empty.png to ./img/handled
+2025-04-21T11:16:01.394531+0800 | INFO | move ./img/origin/chat_more_action_dot.png to ./img/handled
+2025-04-21T11:16:01.396023+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_video_cancel_18px.png, file_path:./img/origin/icon_video_cancel_18px.xml, to_dir:./img/handled
+2025-04-21T11:16:01.397216+0800 | INFO | move ./img/origin/chat_more_action_doc.png to ./img/handled
+2025-04-21T11:16:01.398982+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_history_line_30px.png, file_path:./img/origin/icon_history_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:16:01.400136+0800 | INFO | move ./img/origin/icon_right_arrow_small.png to ./img/handled
+2025-04-21T11:16:01.401791+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_contact_button.png, file_path:./img/origin/search_contact_button.xml, to_dir:./img/handled
+2025-04-21T11:16:01.403095+0800 | INFO | move ./img/origin/bg_round.png to ./img/handled
+2025-04-21T11:16:01.404489+0800 | INFO | move ./img/origin/s_chat_logo.webp to ./img/handled
+2025-04-21T11:16:01.406234+0800 | INFO | get cache png success, cache_png_path:./img/cache/search_right_arrow.png, file_path:./img/origin/search_right_arrow.xml, to_dir:./img/handled
+2025-04-21T11:16:01.407571+0800 | INFO | move ./img/origin/rectangle_789.png to ./img/handled
+2025-04-21T11:16:01.408758+0800 | INFO | move ./img/origin/icon_day_clicked.webp to ./img/handled
+2025-04-21T11:16:01.410490+0800 | INFO | get cache png success, cache_png_path:./img/cache/converstaion_empty.png, file_path:./img/origin/converstaion_empty.xml, to_dir:./img/handled
+2025-04-21T11:16:01.412295+0800 | INFO | get cache png success, cache_png_path:./img/cache/ic_meeting_setting.png, file_path:./img/origin/ic_meeting_setting.xml, to_dir:./img/handled
+2025-04-21T11:16:01.413824+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_statistics_line_30px.png, file_path:./img/origin/icon_statistics_line_30px.xml, to_dir:./img/handled
+2025-04-21T11:16:01.415003+0800 | INFO | move ./img/origin/edit_name_clear_icon.png to ./img/handled
+2025-04-21T11:16:01.416044+0800 | INFO | move ./img/origin/icon_file_ae.webp to ./img/handled
+2025-04-21T11:16:01.417141+0800 | INFO | move ./img/origin/ic_volume_dialog_bg.9.png to ./img/handled
+2025-04-21T11:16:01.418163+0800 | INFO | move ./img/origin/ic_camera_on.png to ./img/handled
+2025-04-21T11:16:01.419815+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_chat_add.png, file_path:./img/origin/icon_chat_add.xml, to_dir:./img/handled
+2025-04-21T11:16:01.421421+0800 | INFO | get cache png success, cache_png_path:./img/cache/album_ic_check.png, file_path:./img/origin/album_ic_check.xml, to_dir:./img/handled
+2025-04-21T11:16:01.422455+0800 | INFO | move ./img/origin/chat_back_white.png to ./img/handled
+2025-04-21T11:16:01.423517+0800 | INFO | move ./img/origin/icon_timezone_radio_delete.webp to ./img/handled
+2025-04-21T11:16:01.424393+0800 | INFO | move ./img/origin/icon_remove.webp to ./img/handled
+2025-04-21T11:16:01.425414+0800 | INFO | move ./img/origin/icon_title_more.webp to ./img/handled
+2025-04-21T11:16:01.426510+0800 | INFO | move ./img/origin/icon_save_24px.png to ./img/handled
+2025-04-21T11:16:01.428185+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_scan_light_on.png, file_path:./img/origin/icon_scan_light_on.xml, to_dir:./img/handled
+2025-04-21T11:16:01.429132+0800 | INFO | move ./img/origin/ic_effect_clear.png to ./img/handled
+2025-04-21T11:16:24.523509+0800 | ERROR | kimi convert exception, vd_path:./img/origin/ic_launcher_background.xml error: Unterminated string starting at: line 3 column 12 (char 57) resp: {
+    "desc": "将提供的Vector Drawable转换为SVG格式。",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 108 108\" width=\"108\" height=\"108\">\n    <rect x=\"0\" y=\"0\" width=\"108\" height=\"108\" fill=\"#3DDC84\"/>\n    <line x1=\"9\" y1=\"0\" x2=\"9\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"19\" y1=\"0\" x2=\"19\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"29\" y1=\"0\" x2=\"29\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"39\" y1=\"0\" x2=\"39\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"49\" y1=\"0\" x2=\"49\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"59\" y1=\"0\" x2=\"59\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"69\" y1=\"0\" x2=\"69\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"79\" y1=\"0\" x2=\"79\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"89\" y1=\"0\" x2=\"89\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"99\" y1=\"0\" x2=\"99\" y2=\"108\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"9\" x2=\"108\" y2=\"9\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"19\" x2=\"108\" y2=\"19\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"29\" x2=\"108\" y2=\"29\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"39\" x2=\"108\" y2=\"39\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"49\" x2=\"108\" y2=\"49\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"59\" x2=\"108\" y2=\"59\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"69\" x2=\"108\" y2=\"69\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"79\" x2=\"108\" y2=\"79\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"89\" x2=\"108\" y2=\"89\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"0\" y1=\"99\" x2=\"108\" y2=\"99\" stroke-width=\"0.8\" stroke=\"#33FFFFFF\"/>\n    <line x1=\"19\" y1=\"29\" x2=\"89\" y2=\"29\
+2025-04-21T11:16:24.528621+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_chat_ignore.png, file_path:./img/origin/icon_chat_ignore.xml, to_dir:./img/handled
+2025-04-21T11:16:24.531272+0800 | INFO | move ./img/origin/icon_mark.webp to ./img/handled
+2025-04-21T11:16:24.533780+0800 | INFO | move ./img/origin/icon_arrow_down.png to ./img/handled
+2025-04-21T11:16:24.535916+0800 | INFO | move ./img/origin/icon_timezone_radio_unselect.webp to ./img/handled
+2025-04-21T11:16:24.538415+0800 | INFO | move ./img/origin/ic_effect_filter_cold_white.png to ./img/handled
+2025-04-21T11:16:24.540381+0800 | INFO | move ./img/origin/contact_service.png to ./img/handled
+2025-04-21T11:16:24.542232+0800 | INFO | move ./img/origin/icon_label_mark.webp to ./img/handled
+2025-04-21T11:16:24.543892+0800 | INFO | move ./img/origin/ic_effect_filter_hokkaido.png to ./img/handled
+2025-04-21T11:16:24.545379+0800 | INFO | move ./img/origin/icon_close.webp to ./img/handled
+2025-04-21T11:16:24.547631+0800 | INFO | get cache png success, cache_png_path:./img/cache/icon_phone_hangup_32px.png, file_path:./img/origin/icon_phone_hangup_32px.xml, to_dir:./img/handled
+2025-04-21T11:16:24.548805+0800 | INFO | move ./img/origin/icon_checked.webp to ./img/handled
+2025-04-21T11:16:24.550127+0800 | INFO | move ./img/origin/core_close_icon.png to ./img/handled
+2025-04-21T11:16:24.551385+0800 | INFO | move ./img/origin/icon_email_line_black.webp to ./img/handled
+2025-04-21T11:16:24.552436+0800 | INFO | move ./img/origin/icon_mic_off_14px.png to ./img/handled
