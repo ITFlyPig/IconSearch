@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>相似图片结果</title>
+
+    <style>
+       .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 100px; /* 容器宽度 */
+            margin: 0 auto; /* 居中 */
+        }
+
+        .container img {
+            width: 100%; /* 图片宽度 */
+            height: auto; /* 图片高度自适应 */
+            border-radius: 10px; /* 图片圆角 */
+            border: 2px solid #ccc; /* 边框 */
+            background-color: #f0f0f0; /* 淡灰色背景 */
+        }
+
+        .container p {
+            margin-top: 10px; /* 图片与名称的间距 */
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>相似图片结果</h1>
+    {% for image in images %}
+        <div class="container">
+            <img src="{{ url_for('origin_img', filename=image) }}" alt="{{ image }}" style="width:200px;">
+            <p>{{ image }}</p>
+        </div>
+    {% endfor %}
+    <br>
+    <a href="/">再上传一张图片</a>
+</body>
+</html>

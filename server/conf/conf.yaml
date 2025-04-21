@@ -9,4 +9,4 @@ image:
 qdrant:
   hot: "120.48.81.107"
   port: 6333
-  collection_name: "icon_search_android"
+  collection_name: "icon_search_android2"

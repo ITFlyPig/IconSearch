@@ -13,15 +13,21 @@ class VectorDB:
         self.size = size
         self.collection_name = collection_name
         self.qdrant_client = QdrantClient(host=self.host, port=self.port)
-        self._create_collection(collection_name, self.size)
+        self._get_or_create_collection(collection_name, self.size)
 
-    def _create_collection(self, collection_name: str, size: int):
+    def _get_or_create_collection(self, collection_name: str, size: int):
         """
         创建集合
         :param collection_name:
         :param size:
         :return:
         """
+        # try:
+        #     collection = self.qdrant_client.get_collection(collection_name=collection_name)
+        #     if collection is not None:
+        #         return
+        # except Exception as e: # 集合不存在
+        #     pass
         self.qdrant_client.recreate_collection(
             collection_name=collection_name,
             vectors_config=rest.VectorParams(size=size, distance=rest.Distance.COSINE),
@@ -34,8 +40,8 @@ class VectorDB:
         :param img_path:
         :return:
         """
-        point_id = str(uuid.uuid4())
         file_name = os.path.basename(img_path)
+        point_id = str(uuid.uuid4())
         # 打印调试信息
         point = rest.PointStruct(
             id=point_id,
