@@ -1,10 +1,10 @@
 # 日志
 log:
   name: "icon_search_server"
-  dir: "./log/"
+  dir: "./server/log/"
 
 image:
-  origin_dir: "./origin_img" # 原始图片所在目录
+  origin_dir: "./server/origin_img" # 原始图片所在目录
 
 qdrant:
   hot: "localhost"

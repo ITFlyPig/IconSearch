@@ -6,7 +6,7 @@ from server.src.icon_search_server import start_search_server
 from server.src.img_to_db import ImgDirHandler
 
 if __name__ == '__main__':
-    config = Config.from_yaml('./conf/conf.yaml')
+    config = Config.from_yaml('server/conf/conf.yaml')
     init_logger(config.log.dir, config.log.name)
     # 启动时全量扫描一次图片目录，解析图片为向量，保存到数据库
     model = AiModel()
@@ -18,3 +18,5 @@ if __name__ == '__main__':
 
     # 启动web搜索服务
     start_search_server(model, vector_db)
+
+
