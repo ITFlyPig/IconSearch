@@ -4,9 +4,9 @@ log:
   dir: "./log/"
 
 image:
-  origin_dir: "/Users/10254072/PycharmProjects/IconSearch/local/img/handled" # 原始图片所在目录
+  origin_dir: "./origin_img" # 原始图片所在目录
 
 qdrant:
-  hot: "120.48.81.107"
+  hot: "localhost"
   port: 6333
   collection_name: "icon_search_android2"
