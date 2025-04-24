@@ -48,4 +48,5 @@ IconSearch
 * qdrant==1.2.0
 * qdrant_client==1.12.0
 * cairosvg==2.7.1
+* open_clip_torch==2.29.0
 具体的依赖可以看environment.yml文件，这是通过conda导出来的。

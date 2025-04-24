@@ -48,7 +48,7 @@ class VectorDB:
             vector=img_vector,
             payload={'file_name': file_name, 'img_path': img_path}
         )
-        logger.info(f'Attempting to insert point: {point}')
+        logger.info(f'Attempting to insert: {img_path}')
         try:
             response = self.qdrant_client.upsert(
                 collection_name=self.collection_name,
