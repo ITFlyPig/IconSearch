@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>相似图片结果</title>
+    <title>相似图标结果</title>
 
     <style>
        .container {
@@ -30,7 +30,7 @@
     </style>
 </head>
 <body>
-    <h1>相似图片结果</h1>
+    <h1>相似图标结果</h1>
     {% for image in images %}
         <div class="container">
             <img src="{{ url_for('origin_img', filename=image) }}" alt="{{ image }}" style="width:200px;">

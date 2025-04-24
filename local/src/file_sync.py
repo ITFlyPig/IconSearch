@@ -4,9 +4,9 @@ from fabric import Connection
 from loguru import logger
 
 # 配置远程服务器信息
-g_host = '120.48.81.107'
-g_user = 'root'
-g_password = 'Wyl@1514'
+g_host = ''
+g_user = ''
+g_password = ''
 
 class FileSync:
     def __init__(self, host, user, password):
